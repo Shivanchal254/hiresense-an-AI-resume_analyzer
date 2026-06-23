@@ -127,13 +127,15 @@ def upload_and_process():
         print(f"[SUCCESS] Found {len(job_matches)} job recommendations")
         
         # Step 6: Return complete response
+       file_ext = os.path.splitext(filename)[1].replace('.', '').upper()
+        
         response = {
             "success": True,
             "file_info": {
                 "filename": unique_filename,
-                "original_filename": file.filename,
+                "original_filename": secure_filename(file.filename),
                 "file_path": filepath,
-                "file_type": filename.split('.')[-1].upper(),
+                "file_type": file_ext,
                 "text_length": len(resume_text)
             },
             "skills_extraction": {
@@ -153,7 +155,7 @@ def upload_and_process():
         print(f"[ERROR] Processing failed: {str(e)}")
         return jsonify({
             "success": False,
-            "error": str(e)
+            "error": "An internal error occurred while processing the resume."
         }), 500
 
 # Legacy endpoints (kept for backward compatibility)
@@ -199,4 +201,4 @@ if __name__ == '__main__':
     load_models()
     
     print("="*60 + "\n")
-    app.run(debug=True)
+    app.run(debug=False)
