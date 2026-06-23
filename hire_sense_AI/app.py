@@ -95,7 +95,8 @@ def upload_and_process():
         # Step 2: Save uploaded file
         filename = secure_filename(file.filename)
         unique_filename = str(uuid.uuid4()) + "_" + filename
-        filepath = os.path.join(app.config['UPLOAD_FOLDER'], unique_filename)
+        filepath = os.path.abspath(os.path.join(app.config['UPLOAD_FOLDER'], unique_filename))
+
         file.save(filepath)
         
         print(f"\n[PROCESSING] Starting resume processing for {unique_filename}")
