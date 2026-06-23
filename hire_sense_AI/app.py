@@ -189,7 +189,8 @@ def upload_file():
         }), 200
         
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        print(f"[ERROR] Legacy upload failed: {str(e)}")
+        return jsonify({"error": "An internal error occurred during file upload."}), 500
 
 # Run app
 if __name__ == '__main__':
