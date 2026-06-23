@@ -1,0 +1,11 @@
+Flask
+flask-cors
+pdfplumber
+python-docx
+spacy
+pandas
+scikit-learn
+werkzeug
+Jinja2
+python-dotenv
+flask_sqlalchemy

@@ -1,0 +1,645 @@
+{% extends "base.html" %}
+
+{% block extra_head %}
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+
+    body {
+        font-family: 'Poppins', sans-serif;
+        background: linear-gradient(135deg, #f5f7ff 0%, #e8f0ff 100%);
+        color: #333;
+        line-height: 1.6;
+        min-height: 100vh;
+        padding: 20px;
+    }
+
+    .results-wrapper {
+        max-width: 1100px;
+        margin: 40px auto;
+        padding: 20px;
+    }
+
+    /* ===========================
+       Top Banner
+       =========================== */
+
+    .top-banner {
+        text-align: center;
+        margin-bottom: 40px;
+        animation: slideInDown 0.6s ease-out;
+    }
+
+    .top-banner h1 {
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 12px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        letter-spacing: -0.5px;
+    }
+
+    .top-banner p {
+        font-size: 15px;
+        color: #666;
+        font-weight: 400;
+    }
+
+    .top-banner p strong {
+        color: #333;
+        font-weight: 600;
+    }
+
+    /* ===========================
+       Cards
+       =========================== */
+
+    .card {
+        background: white;
+        padding: 30px;
+        border-radius: 12px;
+        margin-bottom: 24px;
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+        transition: all 0.3s ease;
+        border: 1px solid rgba(255, 255, 255, 0.8);
+        animation: fadeInUp 0.6s ease-out;
+    }
+
+    .card:hover {
+        box-shadow: 0 12px 35px rgba(0, 0, 0, 0.12);
+        transform: translateY(-4px);
+    }
+
+    .card h2 {
+        margin-bottom: 18px;
+        font-size: 22px;
+        font-weight: 700;
+        color: #1a1a1a;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .card p {
+        color: #555;
+        font-weight: 400;
+    }
+
+    /* ===========================
+       Skills Section
+       =========================== */
+
+    .skills {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+    }
+
+    .skill-badge {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 8px 16px;
+        border-radius: 24px;
+        font-size: 13px;
+        font-weight: 500;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
+        cursor: default;
+        animation: scaleIn 0.4s ease-out backwards;
+    }
+
+    .skill-badge:nth-child(1) { animation-delay: 0.05s; }
+    .skill-badge:nth-child(2) { animation-delay: 0.1s; }
+    .skill-badge:nth-child(3) { animation-delay: 0.15s; }
+    .skill-badge:nth-child(n+4) { animation-delay: 0.2s; }
+
+    .skill-badge:hover {
+        transform: translateY(-3px) scale(1.05);
+        box-shadow: 0 8px 18px rgba(102, 126, 234, 0.35);
+    }
+
+    /* ===========================
+       Jobs Section
+       =========================== */
+
+    .jobs-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 18px;
+    }
+
+    .job-card {
+        border: 1px solid #e8e8e8;
+        border-radius: 12px;
+        padding: 22px;
+        transition: all 0.3s ease;
+        background: white;
+        position: relative;
+        overflow: hidden;
+        animation: fadeInUp 0.6s ease-out backwards;
+    }
+
+    .job-card:nth-child(1) { animation-delay: 0.1s; }
+    .job-card:nth-child(2) { animation-delay: 0.15s; }
+    .job-card:nth-child(3) { animation-delay: 0.2s; }
+    .job-card:nth-child(n+4) { animation-delay: 0.25s; }
+
+    .job-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 4px;
+        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+    }
+
+    .job-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 12px 30px rgba(102, 126, 234, 0.15);
+        border-color: #667eea;
+    }
+
+    .job-card h3 {
+        font-size: 16px;
+        font-weight: 700;
+        margin-bottom: 12px;
+        color: #1a1a1a;
+        transition: color 0.3s ease;
+    }
+
+    .job-card:hover h3 {
+        color: #667eea;
+    }
+
+    .job-card p {
+        font-size: 14px;
+        margin-bottom: 8px;
+        color: #666;
+    }
+
+    .job-card strong {
+        color: #333;
+        font-weight: 600;
+    }
+
+    .score {
+        color: #10b981;
+        font-weight: 700;
+        font-size: 15px;
+        margin-top: 12px;
+        padding-top: 12px;
+        border-top: 1px solid #f0f0f0;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+    }
+
+    .score::before {
+        content: '✓';
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        background: #10b981;
+        color: white;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 20px;
+        font-size: 12px;
+    }
+
+    /* ===========================
+       Resume Box
+       =========================== */
+
+    .resume-box {
+        background: linear-gradient(135deg, #f5f7ff 0%, #e8f0ff 100%);
+        padding: 20px;
+        border-radius: 10px;
+        max-height: 300px;
+        overflow: auto;
+        font-size: 13px;
+        border: 1px solid #dde5ff;
+        color: #444;
+        line-height: 1.7;
+    }
+
+    .resume-box::-webkit-scrollbar {
+        width: 6px;
+    }
+
+    .resume-box::-webkit-scrollbar-track {
+        background: #f1f1f1;
+        border-radius: 10px;
+    }
+
+    .resume-box::-webkit-scrollbar-thumb {
+        background: #667eea;
+        border-radius: 10px;
+    }
+
+    .resume-box::-webkit-scrollbar-thumb:hover {
+        background: #764ba2;
+    }
+
+    /* ===========================
+       Button Section
+       =========================== */
+
+    .button-group {
+        display: flex;
+        gap: 16px;
+        justify-content: center;
+        margin-top: 40px;
+        animation: fadeInUp 0.8s ease-out;
+    }
+
+    .button-group a {
+        text-decoration: none;
+        transition: all 0.3s ease;
+        font-weight: 600;
+        font-size: 15px;
+        letter-spacing: 0.3px;
+    }
+
+    .btn {
+        padding: 13px 28px;
+        border-radius: 8px;
+        display: inline-block;
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .btn-primary {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        box-shadow: 0 6px 20px rgba(102, 126, 234, 0.3);
+    }
+
+    .btn-primary::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.25), transparent);
+        transition: left 0.5s ease;
+    }
+
+    .btn-primary:hover::before {
+        left: 100%;
+    }
+
+    .btn-primary:hover {
+        box-shadow: 0 10px 30px rgba(102, 126, 234, 0.5);
+        transform: translateY(-3px);
+    }
+
+    .btn-primary:active {
+        transform: translateY(-1px);
+    }
+
+    .btn-outline {
+        background: white;
+        color: #667eea;
+        border: 2px solid #667eea;
+        font-weight: 600;
+    }
+
+    .btn-outline::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 0;
+        height: 2px;
+        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+        transition: width 0.3s ease;
+    }
+
+    .btn-outline:hover {
+        background: #f8f9ff;
+        color: #764ba2;
+        border-color: #764ba2;
+        transform: translateY(-3px);
+        box-shadow: 0 8px 20px rgba(102, 126, 234, 0.15);
+    }
+
+    .btn-outline:hover::after {
+        width: 100%;
+    }
+
+    /* ===========================
+       Animations
+       =========================== */
+
+    @keyframes slideInDown {
+        from {
+            opacity: 0;
+            transform: translateY(-30px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    @keyframes fadeInUp {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    @keyframes scaleIn {
+        from {
+            opacity: 0;
+            transform: scale(0.8);
+        }
+        to {
+            opacity: 1;
+            transform: scale(1);
+        }
+    }
+
+    /* ===========================
+       Responsive Design
+       =========================== */
+
+    @media (max-width: 768px) {
+        .results-wrapper {
+            padding: 15px;
+            margin: 20px auto;
+        }
+
+        .top-banner h1 {
+            font-size: 28px;
+        }
+
+        .card {
+            padding: 20px;
+            margin-bottom: 18px;
+        }
+
+        .card h2 {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+
+        .jobs-container {
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+
+        .job-card {
+            padding: 18px;
+        }
+
+        .button-group {
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .btn {
+            width: 100%;
+            text-align: center;
+            padding: 12px 20px;
+        }
+    }
+
+    @media (max-width: 480px) {
+        body {
+            padding: 10px;
+        }
+
+        .results-wrapper {
+            padding: 12px;
+        }
+
+        .top-banner h1 {
+            font-size: 24px;
+        }
+
+        .top-banner p {
+            font-size: 13px;
+        }
+
+        .card {
+            padding: 16px;
+            margin-bottom: 15px;
+        }
+
+        .card h2 {
+            font-size: 16px;
+            margin-bottom: 12px;
+        }
+
+        .skills {
+            gap: 10px;
+        }
+
+        .skill-badge {
+            font-size: 12px;
+            padding: 6px 12px;
+        }
+
+        .jobs-container {
+            grid-template-columns: 1fr;
+            gap: 12px;
+        }
+
+        .job-card {
+            padding: 15px;
+        }
+
+        .job-card h3 {
+            font-size: 14px;
+        }
+
+        .job-card p {
+            font-size: 13px;
+        }
+
+        .resume-box {
+            font-size: 12px;
+            max-height: 250px;
+        }
+
+        .button-group {
+            margin-top: 30px;
+        }
+
+        .btn {
+            font-size: 14px;
+            padding: 11px 18px;
+        }
+    }
+
+    /* ===========================
+       Accessibility
+       =========================== */
+
+    *:focus-visible {
+        outline: 2px solid #667eea;
+        outline-offset: 2px;
+    }
+
+    a:focus-visible,
+    button:focus-visible {
+        outline-offset: 4px;
+    }
+
+    /* Prefers reduced motion */
+    @media (prefers-reduced-motion: reduce) {
+        *,
+        *::before,
+        *::after {
+            animation-duration: 0.01ms !important;
+            animation-iteration-count: 1 !important;
+            transition-duration: 0.01ms !important;
+        }
+    }
+
+    /* Dark mode support */
+    @media (prefers-color-scheme: dark) {
+        body {
+            background: linear-gradient(135deg, #1e1e2e 0%, #2d1b4e 100%);
+            color: #e0e0e0;
+        }
+
+        .card {
+            background: #2a2a3e;
+            border-color: #3a3a4e;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+        }
+
+        .card h2 {
+            color: #ffffff;
+        }
+
+        .card p {
+            color: #bbb;
+        }
+
+        .top-banner p {
+            color: #aaa;
+        }
+
+        .top-banner p strong {
+            color: #e0e0e0;
+        }
+
+        .job-card {
+            background: #2a2a3e;
+            border-color: #3a3a4e;
+        }
+
+        .job-card h3 {
+            color: #ffffff;
+        }
+
+        .job-card p {
+            color: #bbb;
+        }
+
+        .job-card strong {
+            color: #e0e0e0;
+        }
+
+        .resume-box {
+            background: #1e1e2e;
+            border-color: #3a3a4e;
+            color: #d0d0d0;
+        }
+
+        .btn-outline {
+            background: #2a2a3e;
+            color: #888dff;
+            border-color: #667eea;
+        }
+
+        .btn-outline:hover {
+            background: #3a3a4e;
+            color: #aaa8ff;
+        }
+    }
+
+</style>
+{% endblock %}
+
+{% block title %}Results{% endblock %}
+
+{% block content %}
+
+<div class="results-wrapper">
+
+    <!-- ✅ TOP SUCCESS -->
+    <div class="top-banner">
+        <h1>✅ Resume Analyzed Successfully</h1>
+        <p><strong>File:</strong> {{ filename }}</p>
+    </div>
+
+    <!-- ✅ CATEGORY -->
+    <div class="card">
+        <h2>🎯 Detected Category</h2>
+        <p><strong>{{ category }}</strong></p>
+    </div>
+
+    <!-- ✅ SKILLS -->
+    <div class="card">
+        <h2>🧠 Skills Detected</h2>
+        <div class="skills">
+            {% for skill in skills %}
+                <span class="skill-badge">{{ skill }}</span>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- ✅ JOBS -->
+    <div class="card">
+        <h2>💼 Top Job Matches</h2>
+        <div class="jobs-container">
+            {% for job in jobs %}
+                <div class="job-card">
+                    <h3>{{ job.job_title }}</h3>
+                    <p><strong>Company:</strong> {{ job.company }}</p>
+                    <p class="score">Match Score: {{ job.final_rank_score }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- ✅ RESUME TEXT 
+    <div class="card">
+        <h2>📄 Extracted Resume</h2>
+        <div class="resume-box">
+            <pre>{{ result }}</pre>
+        </div>
+    </div> -->
+
+    <!-- ✅ BUTTONS -->
+    <div style="text-align:center; margin-top: 20px;">
+        <a href="/upload" class="btn btn-outline">Upload Another</a>
+        <a href="/" class="btn btn-primary">Back to Home</a>
+    </div>
+
+</div>
+
+{% endblock %}

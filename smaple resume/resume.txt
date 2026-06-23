@@ -1,0 +1,54 @@
+Rahul Sharma
+
+Email: rahul.sharma@email.com
+Phone: +91-9876543210
+Location: Mumbai, India
+LinkedIn: linkedin.com/in/rahulsharma
+GitHub: github.com/rahulsharma
+
+Objective
+
+Motivated Computer Science student with a strong foundation in machine
+learning and data analysis. Seeking an entry-level AI/ML Engineer role.
+
+Education
+
+B.Tech in Computer Science
+XYZ Institute of Technology, Mumbai (2021–2025)
+CGPA: 8.5/10
+
+Technical Skills
+
+-   Programming: Python, Java, C++
+-   Web: HTML, CSS, JavaScript
+-   Libraries: Scikit-learn, TensorFlow, Keras, Pandas, NumPy
+-   Tools: Git, Docker, Jupyter Notebook
+-   Databases: MySQL, MongoDB
+
+Projects
+
+-   AI-Based Resume Analyzer (NLP, cosine similarity)
+-   Image Classification System (CNN, 92% accuracy)
+-   Chatbot using NLP (NLTK, intent classification)
+
+Internship
+
+Machine Learning Intern, ABC Tech Solutions (June 2024 – August 2024)
+
+Certifications
+
+-   Machine Learning (Coursera)
+-   Data Science with Python (Udemy)
+
+Soft Skills
+
+Problem-solving, Communication, Teamwork, Time Management
+
+Languages
+
+English, Hindi
+
+Achievements
+
+-   Hackathon Winner 2023
+-   Top 5% Coding Competition

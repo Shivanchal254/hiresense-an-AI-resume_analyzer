@@ -1,0 +1,205 @@
+job_id,job_title,skills,years_exp_num,experience_level,company,mandatory_qualification
+IT-1,Software Engineer,"c#, git, java, sql",11,Mid-Senior level,EY,Any
+IT-2,Software Engineer,"c#, git, java, python, sql",10,Mid-Senior level,Stripe,Any
+IT-3,Software Engineer,"c#, git, java, sql",10,Mid-Senior level,Infosys,Any
+IT-4,Senior Software Engineer,"aws, git, microservices, python",20,Senior,Salesforce,Any
+IT-5,Senior Software Engineer,"aws, c++, git, java, microservices, python",15,Senior,Tesla,Any
+IT-6,Senior Software Engineer,"java, microservices, python, sql",20,Senior,Figma,Any
+IT-7,Full Stack Developer,"html, javascript, mongodb, react",10,Mid-Senior level,GitHub,Any
+IT-8,Full Stack Developer,"css, javascript, mongodb, node.js, react, sql",3,Junior,Microsoft,Any
+IT-9,Full Stack Developer,"css, mongodb, react, sql",7,Mid-level,Amazon,Any
+IT-10,Frontend Developer,"html, javascript, vue, webpack",4,Junior,Shopify,Any
+IT-11,Frontend Developer,"angular, css, html, javascript, react, vue, webpack",10,Mid-Senior level,Apple,Any
+IT-12,Frontend Developer,"angular, css, html, javascript, vue, webpack",8,Mid-level,Broadcom,Any
+IT-13,Backend Developer,"java, microservices, mongodb, python, rest api, sql",11,Mid-Senior level,Elastic,Any
+IT-14,Backend Developer,"java, microservices, mongodb, node.js, python, rest api, sql",5,Mid-level,Cisco,Any
+IT-15,Backend Developer,"microservices, mongodb, python, sql",4,Junior,Databricks,Any
+IT-16,Web Developer,"css, javascript, php, sql, wordpress",7,Mid-level,IBM,Any
+IT-17,Web Developer,"html, javascript, php, sql, wordpress",11,Mid-Senior level,GitHub,Any
+IT-18,Web Developer,"html, javascript, php, sql, wordpress",11,Mid-Senior level,Palantir,Any
+IT-19,Mobile Developer,"flutter, java, kotlin, swift",13,Mid-Senior level,Qualcomm,Any
+IT-20,Mobile Developer,"java, kotlin, sql, swift",5,Mid-level,LinkedIn,Any
+IT-21,Mobile Developer,"flutter, kotlin, react native, sql, swift",4,Junior,SendGrid,Any
+IT-22,Ios Developer,"cocoapods, git, swift, xcode",12,Mid-Senior level,Canva,Any
+IT-23,Ios Developer,"cocoapods, objective-c, swift, xcode",3,Junior,Slack,Any
+IT-24,Ios Developer,"cocoapods, git, objective-c, swift, xcode",5,Mid-level,Stripe,Any
+IT-25,Android Developer,"android studio, firebase, java, kotlin",11,Mid-Senior level,HCL,Any
+IT-26,Android Developer,"android studio, firebase, java, kotlin",10,Mid-Senior level,EY,Any
+IT-27,Android Developer,"android studio, java, kotlin, sqlite",2,Junior,Toast,Any
+IT-28,Game Developer,"c#, c++, graphics, unity, unreal engine",10,Mid-Senior level,IBM,Any
+IT-29,Game Developer,"c#, c++, graphics, unity, unreal engine",3,Junior,Google,Any
+IT-30,Game Developer,"c++, graphics, unity, unreal engine",3,Junior,Spotify,Any
+IT-31,Embedded Systems Engineer,"assembly, c, c++, embedded linux, microcontrollers",4,Junior,Tech Mahindra,Any
+IT-32,Embedded Systems Engineer,"assembly, c, embedded linux, microcontrollers",3,Junior,McKinsey,Any
+IT-33,Embedded Systems Engineer,"assembly, c, embedded linux, microcontrollers",7,Mid-level,GitHub,Any
+IT-34,Devops Engineer,"aws, ci/cd, docker, jenkins, kubernetes, linux, terraform",3,Junior,Square,Any
+IT-35,Devops Engineer,"aws, ci/cd, docker, jenkins, kubernetes",6,Mid-level,JetBrains,Any
+IT-36,Devops Engineer,"aws, ci/cd, docker, jenkins, kubernetes, linux, terraform",11,Mid-Senior level,Oracle,Any
+IT-37,Cloud Engineer,"aws, azure, docker, gcp, kubernetes, terraform",6,Mid-level,CockroachDB,Any
+IT-38,Cloud Engineer,"azure, docker, gcp, kubernetes, terraform",4,Junior,Infosys,Any
+IT-39,Cloud Engineer,"aws, azure, docker, gcp, kubernetes, terraform",8,Mid-level,AMD,Any
+IT-40,Solutions Architect,"aws, cloud, microservices, system design, technical",14,Senior,Notion,Any
+IT-41,Solutions Architect,"aws, cloud, microservices, system design, technical",9,Mid-Senior level,Salesforce,Any
+IT-42,Solutions Architect,"aws, cloud, microservices, system design, technical",20,Senior,Canva,Any
+IT-43,Data Scientist,"machine learning, pandas, r, scikit-learn, sql, tableau",4,Junior,IBM,Any
+IT-44,Data Scientist,"machine learning, pandas, python, r, scikit-learn, sql, tableau",11,Mid-Senior level,Cisco,Any
+IT-45,Data Scientist,"machine learning, pandas, python, r, scikit-learn, sql, tableau",9,Mid-Senior level,JetBrains,Any
+IT-46,Data Engineer,"kafka, python, spark, sql",13,Mid-Senior level,IBM,Any
+IT-47,Data Engineer,"airflow, etl, hadoop, kafka, python, spark, sql",10,Mid-Senior level,Capgemini,Any
+IT-48,Data Engineer,"airflow, etl, hadoop, kafka, python, spark, sql",9,Mid-Senior level,Twitter,Any
+IT-49,Machine Learning Engineer,"aws, python, pytorch, scikit-learn, tensorflow",6,Mid-level,Uber,Any
+IT-50,Machine Learning Engineer,"aws, python, pytorch, scikit-learn, sql",12,Mid-Senior level,Miro,Any
+IT-51,Machine Learning Engineer,"python, pytorch, scikit-learn, sql, tensorflow",12,Mid-Senior level,CockroachDB,Any
+IT-52,Analytics Engineer,"analytics, dbt, looker, python, sql, tableau",12,Mid-Senior level,Kafka,Any
+IT-53,Analytics Engineer,"analytics, dbt, looker, python, sql",4,Junior,Microsoft,Any
+IT-54,Analytics Engineer,"dbt, python, sql, tableau",7,Mid-level,Accenture,Any
+IT-55,Business Analyst,"analytics, excel, requirements analysis, sql, tableau, ui",2,Junior,Uber,Any
+IT-56,Business Analyst,"analytics, excel, sql, tableau, ui",8,Mid-level,Discord,Any
+IT-57,Business Analyst,"analytics, requirements analysis, sql, tableau, ui",7,Mid-level,Canva,Any
+IT-58,Data Analyst,"excel, python, sql, statistics, tableau",8,Mid-level,Accenture,Any
+IT-59,Data Analyst,"excel, python, sql, tableau",4,Junior,Oracle,Any
+IT-60,Data Analyst,"excel, power bi, sql, tableau",6,Mid-level,LinkedIn,Any
+IT-61,Ai Engineer,"deep learning, ml ops, nlp, python, pytorch",8,Mid-level,Zoom,Any
+IT-62,Ai Engineer,"deep learning, ml ops, python, tensorflow",4,Junior,Tech Mahindra,Any
+IT-63,Ai Engineer,"deep learning, ml ops, python, pytorch, tensorflow",6,Mid-level,Qualcomm,Any
+IT-64,Ml Ops Engineer,"docker, jenkins, kubernetes, mlflow",4,Junior,EY,Any
+IT-65,Ml Ops Engineer,"docker, jenkins, kubernetes, mlflow, monitoring, python",4,Junior,Auth0,Any
+IT-66,Ml Ops Engineer,"docker, jenkins, kubernetes, python",4,Junior,IBM,Any
+IT-67,Security Engineer,"encryption, firewalls, network security, python, sql",5,Mid-level,McKinsey,Any
+IT-68,Security Engineer,"encryption, firewalls, network security, sql",13,Mid-Senior level,GitHub,Any
+IT-69,Security Engineer,"encryption, firewalls, network security, python, sql",5,Mid-level,LinkedIn,Any
+IT-70,Cybersecurity Analyst,"firewall, ids/ips, penetration testing, security",7,Mid-level,Spotify,Any
+IT-71,Cybersecurity Analyst,"ids/ips, network, penetration testing, security",3,Junior,EY,Any
+IT-72,Cybersecurity Analyst,"firewall, ids/ips, network, penetration testing",4,Junior,Capgemini,Any
+IT-73,Application Security Engineer,"java, owasp, penetration testing, python, secure coding",3,Junior,Infosys,Any
+IT-74,Application Security Engineer,"java, penetration testing, python, secure coding",7,Mid-level,HashiCorp,Any
+IT-75,Application Security Engineer,"java, owasp, penetration testing, python, secure coding",13,Mid-Senior level,LinkedIn,Any
+IT-76,Security Architect,"aws, compliance, network security, security design",12,Mid-Senior level,JetBrains,Any
+IT-77,Security Architect,"aws, compliance, encryption, network security, security design",16,Senior,Capgemini,Any
+IT-78,Security Architect,"aws, compliance, encryption, network security, security design",13,Mid-Senior level,Cognizant,Any
+IT-79,Incident Response Specialist,"forensics, malware analysis, network security, python",6,Mid-level,Kafka,Any
+IT-80,Incident Response Specialist,"forensics, malware analysis, network security, python",6,Mid-level,NTT Data,Any
+IT-81,Incident Response Specialist,"forensics, malware analysis, network security, python",2,Junior,Zoom,Any
+IT-82,System Administrator,"linux, network, security, sql, windows",8,Mid-level,Cisco,Any
+IT-83,System Administrator,"linux, security, sql, windows",13,Mid-Senior level,HCL,Any
+IT-84,System Administrator,"linux, network, security, sql, windows",2,Junior,Airbnb,Any
+IT-85,Network Administrator,"cisco, firewall, networking, routing, tcp/ip",3,Junior,Confluent,Any
+IT-86,Network Administrator,"cisco, firewall, networking, routing",7,Mid-level,Broadcom,Any
+IT-87,Network Administrator,"cisco, firewall, networking, routing",12,Mid-Senior level,Roblox,Any
+IT-88,Database Administrator,"backup/recovery, database design, mysql, oracle, sql",3,Junior,Cisco,Any
+IT-89,Database Administrator,"backup/recovery, database design, mysql, oracle, sql",2,Junior,Elastic,Any
+IT-90,Database Administrator,"backup/recovery, mysql, oracle, sql",6,Mid-level,IBM,Any
+IT-91,Technical Support Engineer,"customer service, linux, networking, troubleshooting, windows",10,Mid-Senior level,JetBrains,Any
+IT-92,Technical Support Engineer,"customer service, linux, networking, troubleshooting, windows",2,Junior,Databricks,Any
+IT-93,Technical Support Engineer,"linux, networking, troubleshooting, windows",4,Junior,JetBrains,Any
+IT-94,Infrastructure Engineer,"linux, networking, terraform, virtualization, windows",12,Mid-Senior level,McKinsey,Any
+IT-95,Infrastructure Engineer,"linux, networking, terraform, windows",5,Mid-level,HCL,Any
+IT-96,Infrastructure Engineer,"linux, networking, terraform, virtualization, windows",6,Mid-level,Meta,Any
+IT-97,Site Reliability Engineer,"aws, docker, kubernetes, linux",13,Mid-Senior level,Cisco,Any
+IT-98,Site Reliability Engineer,"aws, docker, linux, monitoring, python",9,Mid-Senior level,CockroachDB,Any
+IT-99,Site Reliability Engineer,"aws, docker, kubernetes, linux, monitoring, python",12,Mid-Senior level,Wipro,Any
+IT-100,Qa Engineer,"automation, performance testing, selenium, sql, testing",7,Mid-level,Databricks,Any
+IT-101,Qa Engineer,"automation, selenium, sql, testing",12,Mid-Senior level,LinkedIn,Any
+IT-102,Qa Engineer,"automation, performance testing, selenium, sql, testing",5,Mid-level,Square,Any
+IT-103,Test Automation Engineer,"ci/cd, java, junit, python",2,Junior,Cisco,Any
+IT-104,Test Automation Engineer,"ci/cd, java, jenkins, junit, python",8,Mid-level,Twitter,Any
+IT-105,Test Automation Engineer,"java, junit, python, selenium",10,Mid-Senior level,Salesforce,Any
+IT-106,Manual Qa Engineer,"bug tracking, communication, sql, testing",13,Mid-Senior level,Notion,Any
+IT-107,Manual Qa Engineer,"communication, excel, sql, testing",7,Mid-level,GitHub,Any
+IT-108,Manual Qa Engineer,"bug tracking, communication, sql, testing",12,Mid-Senior level,PwC,Any
+IT-109,Performance Test Engineer,"analysis, jmeter, loadrunner, performance, sql",4,Junior,Accenture,Any
+IT-110,Performance Test Engineer,"analysis, jmeter, loadrunner, performance, sql",12,Mid-Senior level,NVIDIA,Any
+IT-111,Performance Test Engineer,"analysis, loadrunner, performance, sql",8,Mid-level,EY,Any
+IT-112,Security Test Engineer,"networking, owasp, penetration testing, scripting",8,Mid-level,IBM,Any
+IT-113,Security Test Engineer,"networking, owasp, scripting, security",8,Mid-level,CockroachDB,Any
+IT-114,Security Test Engineer,"networking, owasp, penetration testing, scripting, security",3,Junior,Adobe,Any
+IT-115,Technical Lead,"architecture, java, leadership, mentoring, sql",12,Mid-Senior level,Twitter,Any
+IT-116,Technical Lead,"architecture, java, leadership, mentoring",15,Senior,VMware,Any
+IT-117,Technical Lead,"architecture, java, leadership, mentoring, sql",17,Senior,TCS,Any
+IT-118,Engineering Manager,"java, leadership, sql, teamwork",17,Senior,Salesforce,Any
+IT-119,Engineering Manager,"java, leadership, sql, teamwork",12,Mid-Senior level,Square,Any
+IT-120,Engineering Manager,"java, leadership, sql, teamwork",17,Senior,Shopify,Any
+IT-121,Project Manager,"communication, excel, project management, scrum",15,Senior,Cognizant,Any
+IT-122,Project Manager,"communication, excel, project management, scrum",13,Mid-Senior level,Broadcom,Any
+IT-123,Project Manager,"agile, excel, project management, scrum",14,Senior,Microsoft,Any
+IT-124,Product Manager,"analytics, communication, excel, product strategy, sql",20,Senior,Salesforce,Any
+IT-125,Product Manager,"analytics, communication, excel, sql",10,Mid-Senior level,IBM,Any
+IT-126,Product Manager,"analytics, excel, product strategy, sql",19,Senior,Accenture,Any
+IT-127,Scrum Master,"agile, communication, jira, leadership, scrum",5,Mid-level,SendGrid,Any
+IT-128,Scrum Master,"agile, communication, leadership, scrum",7,Mid-level,Cisco,Any
+IT-129,Scrum Master,"communication, jira, leadership, scrum",2,Junior,GitHub,Any
+IT-130,Technical Program Manager,"agile, communication, excel, program management, technical",9,Mid-Senior level,Stripe,Any
+IT-131,Technical Program Manager,"agile, communication, excel, program management",15,Senior,Wipro,Any
+IT-132,Technical Program Manager,"communication, excel, program management, technical",17,Senior,Intel,Any
+IT-133,Software Architect,"aws, java, microservices, sql, system design",19,Senior,GitHub,Any
+IT-134,Software Architect,"aws, java, microservices, sql",15,Senior,Meta,Any
+IT-135,Software Architect,"aws, java, microservices, sql, system design",14,Senior,Square,Any
+IT-136,Enterprise Architect,"cloud, enterprise design, networking, system architecture",17,Senior,Miro,Any
+IT-137,Enterprise Architect,"cloud, enterprise design, networking, sql, system architecture",18,Senior,Broadcom,Any
+IT-138,Enterprise Architect,"cloud, networking, sql, system architecture",15,Senior,Stripe,Any
+IT-139,Api Architect,"graphql, java, microservices, rest api",14,Senior,Palantir,Any
+IT-140,Api Architect,"graphql, java, microservices, rest api, system design",14,Senior,Apple,Any
+IT-141,Api Architect,"graphql, java, microservices, rest api, system design",17,Senior,TikTok,Any
+IT-142,Database Architect,"database design, nosql, performance, scaling, sql",9,Mid-Senior level,Netflix,Any
+IT-143,Database Architect,"database design, nosql, performance, scaling, sql",13,Mid-Senior level,IBM,Any
+IT-144,Database Architect,"database design, nosql, performance, scaling",20,Senior,VMware,Any
+IT-145,Ai/Ml Researcher,"python, pytorch, research, statistics, tensorflow",8,Mid-level,Salesforce,Any
+IT-146,Ai/Ml Researcher,"deep learning, pytorch, research, statistics, tensorflow",12,Mid-Senior level,Cisco,Any
+IT-147,Ai/Ml Researcher,"deep learning, python, pytorch, statistics, tensorflow",5,Mid-level,IBM,Any
+IT-148,Nlp Engineer,"machine learning, nltk, python, spacy, transformers",12,Mid-Senior level,Apple,Any
+IT-149,Nlp Engineer,"machine learning, python, spacy, transformers",4,Junior,Deloitte,Any
+IT-150,Nlp Engineer,"machine learning, nlp, nltk, python, spacy, transformers",11,Mid-Senior level,Tech Mahindra,Any
+IT-151,Computer Vision Engineer,"deep learning, image processing, opencv, python",13,Mid-Senior level,Square,Any
+IT-152,Computer Vision Engineer,"deep learning, image processing, python, tensorflow",6,Mid-level,Wipro,Any
+IT-153,Computer Vision Engineer,"deep learning, image processing, opencv, python, tensorflow",7,Mid-level,Uber,Any
+IT-154,Blockchain Developer,"cryptocurrency, ethereum, smart contracts, solidity, web3",12,Mid-Senior level,McKinsey,Any
+IT-155,Blockchain Developer,"cryptocurrency, ethereum, solidity, web3",3,Junior,HCL,Any
+IT-156,Blockchain Developer,"cryptocurrency, ethereum, smart contracts, solidity, web3",10,Mid-Senior level,Kafka,Any
+IT-157,Ar/Vr Developer,"3d graphics, c#, c++, unity, unreal engine",5,Mid-level,Kafka,Any
+IT-158,Ar/Vr Developer,"3d graphics, c#, c++, unity",2,Junior,AMD,Any
+IT-159,Ar/Vr Developer,"3d graphics, c#, unity, unreal engine",8,Mid-level,Roblox,Any
+IT-160,Iot Developer,"embedded systems, microcontrollers, networking, python",3,Junior,Stripe,Any
+IT-161,Iot Developer,"embedded systems, iot, microcontrollers, networking, python",6,Mid-level,Dropbox,Any
+IT-162,Iot Developer,"embedded systems, iot, microcontrollers, networking",6,Mid-level,Oracle,Any
+IT-163,Technical Writer,"api, communication, documentation, sql, technical knowledge",4,Junior,SendGrid,Any
+IT-164,Technical Writer,"api, communication, sql, technical knowledge",9,Mid-Senior level,HCL,Any
+IT-165,Technical Writer,"api, communication, documentation, sql, technical knowledge",3,Junior,Deloitte,Any
+IT-166,Developer Advocate,"coding, community, documentation, public speaking, technical",4,Junior,Accenture,Any
+IT-167,Developer Advocate,"coding, community, documentation, public speaking, technical",6,Mid-level,Spotify,Any
+IT-168,Developer Advocate,"coding, community, documentation, public speaking, technical",4,Junior,Databricks,Any
+IT-169,Support Engineer,"communication, linux, networking, technical support",6,Mid-level,SendGrid,Any
+IT-170,Support Engineer,"linux, networking, technical support, troubleshooting",8,Mid-level,Meta,Any
+IT-171,Support Engineer,"communication, linux, networking, technical support, troubleshooting",2,Junior,Capgemini,Any
+IT-172,Technical Support Specialist,"customer service, networking, troubleshooting, windows",3,Junior,Stripe,Any
+IT-173,Technical Support Specialist,"customer service, networking, troubleshooting, windows",2,Junior,Accenture,Any
+IT-174,Technical Support Specialist,"customer service, networking, troubleshooting, windows",5,Mid-level,Notion,Any
+IT-175,It Consultant,"consulting, networking, sql, system design",12,Mid-Senior level,Snapchat,Any
+IT-176,It Consultant,"consulting, java, networking, sql, system design",3,Junior,Google,Any
+IT-177,It Consultant,"consulting, java, networking, system design",6,Mid-level,Amazon,Any
+IT-178,Systems Engineer,"automation, linux, networking, windows",13,Mid-Senior level,Snapchat,Any
+IT-179,Systems Engineer,"linux, networking, system design, windows",7,Mid-level,Broadcom,Any
+IT-180,Systems Engineer,"automation, linux, networking, system design, windows",6,Mid-level,LinkedIn,Any
+IT-181,Automation Engineer,"automation, ci/cd, jenkins, python, scripting",7,Mid-level,Apple,Any
+IT-182,Automation Engineer,"automation, ci/cd, python, scripting",6,Mid-level,Cognizant,Any
+IT-183,Automation Engineer,"automation, ci/cd, jenkins, python, scripting",6,Mid-level,Infosys,Any
+IT-184,Release Manager,"deployment, git, jira, release management, version control",18,Senior,Miro,Any
+IT-185,Release Manager,"deployment, git, jira, version control",9,Mid-Senior level,Confluent,Any
+IT-186,Release Manager,"deployment, git, jira, release management, version control",20,Senior,Roblox,Any
+IT-187,Integration Engineer,"api integration, etl, middleware, python, sql",12,Mid-Senior level,PwC,Any
+IT-188,Integration Engineer,"api integration, etl, middleware, python, sql",2,Junior,Accenture,Any
+IT-189,Integration Engineer,"api integration, etl, middleware, python, sql",2,Junior,Palantir,Any
+IT-190,Business Intelligence Developer,"analytics, etl, power bi, sql, tableau",12,Mid-Senior level,Palantir,Any
+IT-191,Business Intelligence Developer,"analytics, etl, power bi, sql, tableau",10,Mid-Senior level,Tesla,Any
+IT-192,Business Intelligence Developer,"analytics, etl, power bi, sql, tableau",10,Mid-Senior level,NTT Data,Any
+IT-193,Data Warehouse Engineer,"analytics, etl, redshift, snowflake, sql",5,Mid-level,Twitter,Any
+IT-194,Data Warehouse Engineer,"analytics, etl, redshift, snowflake, sql",3,Junior,Intel,Any
+IT-195,Data Warehouse Engineer,"analytics, etl, redshift, snowflake, sql",12,Mid-Senior level,LinkedIn,Any
+IT-196,Middleware Engineer,"enterprise, java, messaging, middleware, networking",8,Mid-level,Shopify,Any
+IT-197,Middleware Engineer,"enterprise, messaging, middleware, networking",4,Junior,Amazon,Any
+IT-198,Middleware Engineer,"enterprise, messaging, middleware, networking",7,Mid-level,Palantir,Any
+IT-199,Quality Assurance Manager,"leadership, qa management, sql, testing",20,Senior,Adobe,Any
+IT-200,Quality Assurance Manager,"automation, leadership, sql, testing",11,Mid-Senior level,Stripe,Any
+IT-201,Quality Assurance Manager,"automation, leadership, qa management, testing",19,Senior,Canva,Any
+IT-202,Compliance Officer,"audit, compliance, documentation, security",8,Mid-level,Cognizant,Any
+IT-203,Compliance Officer,"audit, compliance, documentation, regulations",7,Mid-level,Palantir,Any
+IT-204,Compliance Officer,"audit, compliance, documentation, regulations, security",5,Mid-level,HashiCorp,Any

@@ -1,0 +1,123 @@
+{%extends "base.html"%}
+{%block title%}Upload Resume{%endblock%}
+
+{%block extrahead%}
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+{% endblock %}
+    
+{% block content %}
+
+
+    <!-- ==================== UPLOAD SECTION ==================== -->
+    <section class="upload-section">
+        <div class="upload-container">
+            <h1>Upload Your Resume</h1>
+            <p class="upload-subtitle">
+                Upload your resume and our AI will analyze it to find the best job matches for you.
+            </p>
+
+            <!-- Error Message (shown only when there's an error) -->
+            {% if error %}
+            <div class="error-message">
+                ⚠️ {{ error }}
+            </div>
+            {% endif %}
+
+            <!-- Upload Form -->
+            <form action="/upload" method="POST" enctype="multipart/form-data" class="upload-form">
+
+                <!-- Drag & Drop Area -->
+                <div class="drop-zone" id="dropZone">
+                    <div class="drop-zone-icon">📄</div>
+                    <p class="drop-zone-text">Drag & drop your resume here</p>
+                    <p class="drop-zone-hint">or click to browse files</p>
+                    <p class="drop-zone-formats">Supported formats: PDF, DOCX, DOC, TXT</p>
+                    <input type="file" name="resume" id="fileInput" class="file-input" accept=".pdf,.docx,.doc,.txt">
+                </div>
+
+                <!-- Selected File Name -->
+                <div id="filePreview" style="display: none; text-align:center;">
+    <img id="fileIcon" src="" width="60">
+    <p id="fileName"></p>
+</div>
+
+                <!-- Submit Button -->
+                <button type="submit" class="btn btn-primary btn-large" id="uploadBtn">
+                    Analyze My Resume
+                </button>
+            </form>
+        </div>
+    </section>
+
+
+
+    <!-- ==================== JAVASCRIPT ==================== -->
+   <script>
+const dropZone = document.getElementById("dropZone");
+const fileInput = document.getElementById("fileInput");
+const filePreview = document.getElementById("filePreview");
+const fileName = document.getElementById("fileName");
+const fileIcon = document.getElementById("fileIcon");
+
+// ICON PATHS (you said you created icons folder)
+const icons = {
+    pdf: "/static/icons/pdf.png",
+    doc: "/static/icons/doc.png",
+    docx: "/static/icons/doc.png",
+    txt: "/static/icons/txt.png",
+    default: "/static/icons/file.png"
+};
+
+// Click to upload
+dropZone.addEventListener("click", function () {
+    fileInput.click();
+});
+
+// When file selected
+fileInput.addEventListener("change", function () {
+    if (fileInput.files.length > 0) {
+        showFile(fileInput.files[0]);
+    }
+});
+
+// Drag over
+dropZone.addEventListener("dragover", function (e) {
+    e.preventDefault();
+    dropZone.classList.add("drop-zone-hover");
+});
+
+// Drag leave
+dropZone.addEventListener("dragleave", function () {
+    dropZone.classList.remove("drop-zone-hover");
+});
+
+// Drop file
+dropZone.addEventListener("drop", function (e) {
+    e.preventDefault();
+    dropZone.classList.remove("drop-zone-hover");
+
+    if (e.dataTransfer.files.length > 0) {
+        fileInput.files = e.dataTransfer.files;
+        showFile(e.dataTransfer.files[0]);
+    }
+});
+
+// 🔥 MAIN FUNCTION
+function showFile(file) {
+    const extension = file.name.split(".").pop().toLowerCase();
+
+    fileName.textContent = file.name;
+
+    // Set icon
+    fileIcon.src = icons[extension] || icons.default;
+
+    // Hide drop zone
+    dropZone.style.display = "none";
+
+    // Show preview
+    filePreview.style.display = "block";
+}
+</script>
+{% endblock %}
+

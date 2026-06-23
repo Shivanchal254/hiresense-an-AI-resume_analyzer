@@ -1,0 +1,803 @@
+job_id,job_title,skills,years_exp_num,experience_level,company
+G1,Software Engineer,"c#, java",1,Entry,Global Tech Solutions
+G2,Web Developer,"html, css, javascript",3,Mid,Global Tech Solutions
+A1,AI Researcher,"python, pytorch",5,Senior,AI Corp
+A2,Data Scientist,"r, sql",2,Junior,Data Insights
+S-0,Project Manager,"scala, ai, ui, excel, ml",0, Entry level,Wipro
+S-1,Project Manager,"scala, ai, ui, excel, ml",0, Entry level,Wipro
+S-2,Project Manager,"scala, ai, ui, excel, ml",0, Entry level,Wipro
+S-3,Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-4,Project Manager,"scala, ai, ui, excel, ml",0, Entry level,Wipro
+S-5,Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-6,Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-7,Test Engineer,"ai, ui, excel",0, Entry level,Wipro
+S-8,Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-9,Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-10,Service Level Manager,"ai, ui, excel",5, Mid-Senior level,Wipro
+S-11,Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-12,Project Manager,"scala, ai, ui, excel, ml",0, Entry level,Wipro
+S-13,System Engineer,"scala, ai, ui, excel",0, Entry level,Wipro
+S-14,Test Engineer,"ai, ui, excel",0, Entry level,Wipro
+S-15,System Engineer,"scala, ai, ui, excel",0, Entry level,Wipro
+S-16,Project Manager,"scala, ai, ui, excel, ml",0, Entry level,Wipro
+S-17,Lead Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-18,Lead Administrator,"python, sql, mongodb, ai",5, Mid-Senior level,Wipro
+S-19,Business Analyst,"ai, ui, excel, ml",5, Mid-Senior level,Wipro
+S-20,Project Manager,"scala, ai, ui, ml",0, Entry level,Wipro
+S-21,Project Manager,"scala, ai, ui, excel, ml",0, Entry level,Wipro
+S-22,Technical Lead,"scala, ai, ui, excel, ml",5, Mid-Senior level,Wipro
+S-23,Business Analyst,"ai, ui",5, Mid-Senior level,Wipro
+S-24,Developer,"ai, ui, excel",0, Entry level,Wipro
+S-25,Lead Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-26,Technical Lead,"scala, ai, ui, excel, ml",5, Mid-Senior level,Wipro
+S-27,Developer,"ai, ui, excel",0, Entry level,Wipro
+S-28,Developer,"ai, ui",0, Entry level,Wipro
+S-29,Project Lead,"ai, ui",5, Mid-Senior level,Wipro
+S-30,Project Lead,"ai, ui",5, Mid-Senior level,Wipro
+S-31,Consultant-Technology & Implementation,"ai, ui, excel",5, Mid-Senior level,Wipro
+S-32,DevOps Engineer,"scala, ai, ui, excel, ml",0, Entry level,Wipro
+S-33,Delivery Manager,"scala, ai, ui, excel, ml",5, Mid-Senior level,Wipro
+S-34,Delivery Assurance Manager,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-35,Developer,"ai, ui, excel",0, Entry level,Wipro
+S-36,Test Engineer,"ai, ui, excel",0, Entry level,Wipro
+S-37,DevOps Engineer,"scala, ai, ui, excel, ml",0, Entry level,Wipro
+S-38,Project Manager,"java, ai, ui, selenium",0, Entry level,Wipro
+S-39,Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-40,Product Marketing Manager,"ai, ui, excel",0, Entry level,Wipro
+S-41,Pre-sales consultant,"scala, ai, ui",5, Mid-Senior level,Wipro
+S-42,Cyber Security Analyst,"scala, ai, ui",0, Entry level,Wipro
+S-43,Delivery Manager,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-44,Technical Lead,"scala, ai, ui, excel, ml",5, Mid-Senior level,Wipro
+S-45,Lead Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-46,Cyber Security Analyst,"scala, ai, ui, excel",0, Entry level,Wipro
+S-47,Program Manager (PM),"ai, ui, excel",0, Entry level,Wipro
+S-48,Cyber Security Analyst,"scala, ai, ui, excel",0, Entry level,Wipro
+S-49,Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-50,Project Lead,"ai, ui",5, Mid-Senior level,Wipro
+S-51,Developer,"java, sql, css, javascript, react, ui, nodejs, html, ml",0, Entry level,Wipro
+S-52,Manager – Learning and Development (I&D),"ai, ui, excel",5, Mid-Senior level,Wipro
+S-53,Cyber Security Analyst,"scala, ai, ui, excel",0, Entry level,Wipro
+S-54,Project Lead,"ai, ui",5, Mid-Senior level,Wipro
+S-55,Cyber Security Analyst,"scala, ai, ui, excel",0, Entry level,Wipro
+S-56,Cyber Security Analyst,"scala, ai, ui, excel",0, Entry level,Wipro
+S-57,Senior Consultant-Technology & Implementation,"ai, ui, excel",5, Mid-Senior level,Wipro
+S-58,Configurator,"ai, ui, excel",0, Entry level,Wipro
+S-59,Lead Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-60,Manager – Learning and Development (I&D),"ai, ui, excel",5, Mid-Senior level,Wipro
+S-61,Lead Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-62,Project Lead,"ai, ui",5, Mid-Senior level,Wipro
+S-63,Developer,"ai, ui, excel",0, Entry level,Wipro
+S-64,Cyber Security Analyst,"scala, ai, ui, excel",0, Entry level,Wipro
+S-65,Developer,"ai, ui, excel",0, Entry level,Wipro
+S-66,Service Delivery Lead,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-67,Configurator,"ai, ui, excel",0, Entry level,Wipro
+S-68,ArtificiaI Intelligence Lead,"ai, ui, excel, ml",5, Mid-Senior level,Wipro
+S-69,Application Architect,"scala, ai, ui, excel, ml",5, Mid-Senior level,Wipro
+S-70,Developer,"sql, ai, ui",0, Entry level,Wipro
+S-71,AWS Senior Cloud Developer,"ai, ui, excel",5, Mid-Senior level,Wipro
+S-73,Developer,sql,0, Entry level,Wipro
+S-74,System Engineer,"scala, ai, ui, excel",0, Entry level,Wipro
+S-75,Lead Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-76,Cyber Security Architect,"ai, ui, excel",5, Mid-Senior level,Wipro
+S-77,Presales Manager_F&A,"react, ai, ui, excel, ml",5, Mid-Senior level,Wipro
+S-78,Cyber Security Architect,"ai, excel",5, Mid-Senior level,Wipro
+S-79,Cyber Security Analyst,"scala, ai, ui, excel",0, Entry level,Wipro
+S-80,Senior Consultant-Technology & Implementation,"ai, ui, excel",5, Mid-Senior level,Wipro
+S-81,Cyber Security Architect,"ai, ui, excel",5, Mid-Senior level,Wipro
+S-82,Lead Administrator,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-83,Infrastructure Architect,"ai, ui, excel",5, Mid-Senior level,Wipro
+S-84,System Engineer,"scala, ai, ui, excel",0, Entry level,Wipro
+S-85,Citrix Admin-Administrator,"scala, ai, ui",0, Entry level,Wipro
+S-86,Technical Lead,"scala, ai, ui, excel, ml",5, Mid-Senior level,Wipro
+S-87,Developer,"ai, ui, excel",0, Entry level,Wipro
+S-88,Cyber Security Analyst,"scala, ai, ui, excel",0, Entry level,Wipro
+S-89,AI/ML - Data Scientist,"python, ai, ui, tableau, excel, ml",0, Entry level,Wipro
+S-90,Pre-Sales Consultant,"ai, ui",5, Mid-Senior level,Wipro
+S-91,Big Data Developer,"ai, ui, excel",0, Entry level,Wipro
+S-92,DevOps Lead,"scala, ai, ui, excel, ml",5, Mid-Senior level,Wipro
+S-93,Managing Consultant-Technology & Implementation,"ai, ui, excel",5, Mid-Senior level,Wipro
+S-94,Domain Architect,"scala, ai, ui, excel, ml",5, Mid-Senior level,Wipro
+S-95,Data Analytics Architect,"scala, ai, ui, excel",5, Mid-Senior level,Wipro
+S-96,Scrum Master,ai,5, Mid-Senior level,Wipro
+S-97,Test Engineer,"java, javascript, ai, nodejs, excel",0, Entry level,Wipro
+S-98,Lead Developer,"ai, ui, excel",5, Mid-Senior level,Wipro
+S-99,Tools Consultant,"ai, ui, excel",5, Mid-Senior level,Wipro
+S-100,Cyber Security Analyst,"scala, ai, ui, excel",0, Entry level,Wipro
+S-101,DevOps Engineer,python,0, Entry level,Wipro
+S-102,Java Developer,"java, css, html, ml",0, Entry level,LTIMindtree
+S-103,Java Developer,"java, css, html, ml",0, Entry level,LTIMindtree
+S-104,Opening for Scrum Master,ui,5, Mid-Senior level,LTIMindtree
+S-105,PLSQL Development - LTIMindtree.,"java, sql, css, ai, ui, html, ml",0, Entry level,LTIMindtree
+S-106,Java Developer,"java, css, html, ml",0, Entry level,LTIMindtree
+S-107,Opening for Database Developer,"sql, ai, ui",0, Entry level,LTIMindtree
+S-108,PL/PM (Scrum Master),ui,0, Entry level,LTIMindtree
+S-109,Program Manager,"ai, ui, excel",0, Entry level,LTIMindtree
+S-110,Java Developer,"java, sql, linux, ai",0, Entry level,LTIMindtree
+S-111,BA-P and C Insurance-Billing,"sql, ui, ml",5, Mid-Senior level,LTIMindtree
+S-112,Scrum Master,"ai, ui, excel",5, Mid-Senior level,LTIMindtree
+S-113,Scrum Master,"ai, ui, excel",5, Mid-Senior level,LTIMindtree
+S-114,Oracle EBS Apps Technical Consultant,"sql, ui, excel, ml",5, Mid-Senior level,LTIMindtree
+S-115,Workday Consultant,"scala, ai, ui",5, Mid-Senior level,LTIMindtree
+S-116,Workday Consultant,"scala, ai, ui",5, Mid-Senior level,LTIMindtree
+S-117,"Opening for Oracle Fusion HCM Technical Analyst in LTIM, India","sql, ui",0, Entry level,LTIMindtree
+S-118,Workday Consultant,"scala, ai, ui",5, Mid-Senior level,LTIMindtree
+S-119,Java Developer,"java, sql, linux, ai",0, Entry level,LTIMindtree
+S-120,Workday Consultant,"scala, ai, ui",5, Mid-Senior level,LTIMindtree
+S-121,Looking for Senior Manager - Program and Project Management,ui,5, Mid-Senior level,LTIMindtree
+S-122,Oracle EBS Apps Technical Consultant,"sql, ui, excel, ml",5, Mid-Senior level,LTIMindtree
+S-123,PL/PM (Scrum Master),ui,0, Entry level,LTIMindtree
+S-124,Business Analyst,"ai, ui",5, Mid-Senior level,LTIMindtree
+S-125,Workday Consultant,"scala, ai, ui",5, Mid-Senior level,LTIMindtree
+S-126,Workday Consultant,"scala, ai, ui",5, Mid-Senior level,LTIMindtree
+S-127,Obiee Developer,ai,5, Mid-Senior level,LTIMindtree
+S-128,Obiee Developer,ai,5, Mid-Senior level,LTIMindtree
+S-129,"Opening for PeopleSoft Finance Technical,Consultant","ai, ui",5, Mid-Senior level,LTIMindtree
+S-130,APEX Developer,"java, sql, css, javascript, ai, excel, html, ml",0, Entry level,LTIMindtree
+S-131,Business Analyst- SME-Broker-Insurance,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-132,Java Developer,"java, sql, linux, ai",0, Entry level,LTIMindtree
+S-133,Oracle EBS Apps Technical Consultant,"sql, ui, excel, ml",5, Mid-Senior level,LTIMindtree
+S-134,PL/PM (Scrum Master),ui,0, Entry level,LTIMindtree
+S-135,Workday Consultant,"scala, ai, ui",5, Mid-Senior level,LTIMindtree
+S-136,Java Back-end Developer,"java, sql, linux, ai",0, Entry level,LTIMindtree
+S-137,Obiee Developer,ai,5, Mid-Senior level,LTIMindtree
+S-138,UI UX Designer,"ui, excel",0, Entry level,LTIMindtree
+S-139,Infra Cloud Architect,"java, ai, ui",5, Mid-Senior level,LTIMindtree
+S-140,Looking for PHP Developer,"java, php, sql, mysql, css, linux, javascript, html, ml",0, Entry level,LTIMindtree
+S-141,"Opening for Oracle Fusion HCM Technical Analyst in LTIM, India","sql, ui",0, Entry level,LTIMindtree
+S-142,"Opening for Oracle Fusion HCM Technical Analyst in LTIM, India","sql, ui",0, Entry level,LTIMindtree
+S-143,"Opening for Oracle Fusion HCM Technical Analyst in LTIM, India","sql, ui",0, Entry level,LTIMindtree
+S-144,'Java Full stack Developer',"java, sql, ai, ui, excel, html, ml",0, Entry level,LTIMindtree
+S-145,Java Back-end Developer,"java, sql, linux, ai",0, Entry level,LTIMindtree
+S-146,APEX Developer,"java, sql, css, javascript, ai, excel, html, ml",0, Entry level,LTIMindtree
+S-147,Business Analyst-P&C Insurance-Billing,"sql, ui, ml",5, Mid-Senior level,LTIMindtree
+S-148,Solace Admin,"ui, excel",0, Entry level,LTIMindtree
+S-149,Agile Project Management required for Delhi,"ai, ui, excel",5, Mid-Senior level,LTIMindtree
+S-150,Workday Consultant,"scala, ai, ui",5, Mid-Senior level,LTIMindtree
+S-151,Workday Consultant,"scala, ai, ui",5, Mid-Senior level,LTIMindtree
+S-152,Technical Director,"java, sql, ai, ui",10, Director,LTIMindtree
+S-153,Sharepoint Developer,"ai, ui, excel",0, Entry level,LTIMindtree
+S-154,Sharepoint Developer,"ai, ui, excel",0, Entry level,LTIMindtree
+S-155,Solace Admin,"ui, excel",0, Entry level,LTIMindtree
+S-156,PL/PM (Scrum Master),ui,0, Entry level,LTIMindtree
+S-157,LTIMindtree Hiring SAP Project Manager,ui,5, Mid-Senior level,LTIMindtree
+S-158,Oracle EBS Apps Technical Consultant,"sql, ui, excel, ml",5, Mid-Senior level,LTIMindtree
+S-159,Solace Admin,"ui, excel",0, Entry level,LTIMindtree
+S-160,Solace Admin,"ui, excel",0, Entry level,LTIMindtree
+S-161,Business Analyst-Duckcreek-Claims,"ai, ui",5, Mid-Senior level,LTIMindtree
+S-162,Business Analyst- SME-Broker-Insurance,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-163,Fusion HCM Technical,ui,0, Entry level,LTIMindtree
+S-164,WMS Functional,ui,5, Mid-Senior level,LTIMindtree
+S-165,LTIMindtree Hiring SAP Project Manager,ui,5, Mid-Senior level,LTIMindtree
+S-166,Opening for WMS Functional Consultant in LTIM,ui,5, Mid-Senior level,LTIMindtree
+S-167,Cloud Architect,"ai, ui, excel",5, Mid-Senior level,LTIMindtree
+S-168,EBS Finance Functional,"ai, ui",0, Entry level,LTIMindtree
+S-169,EBS Finance Functional,"ai, ui",0, Entry level,LTIMindtree
+S-170,LTIMindtree Hiring SAP Project Manager,ui,5, Mid-Senior level,LTIMindtree
+S-171,Cloud Architect,"ai, ui, excel",5, Mid-Senior level,LTIMindtree
+S-172,SAP Data Specialist,"scala, ai, ui, excel",0, Entry level,LTIMindtree
+S-173,Python Developer,"python, flask, sql, django, ai, ui, excel",0, Entry level,LTIMindtree
+S-174,LTIMindtree Hiring SAP Project Manager,"scala, ai, excel",5, Mid-Senior level,LTIMindtree
+S-175,LTIMindtree Hiring SAP Project Manager,"scala, ai, excel",5, Mid-Senior level,LTIMindtree
+S-176,Opening for OTM Functional Consultant,"ai, ui",5, Mid-Senior level,LTIMindtree
+S-177,OTM Project Lead,"ai, ui, excel, ml",5, Mid-Senior level,LTIMindtree
+S-178,Java Full Stack with angular and springboot,"java, sql, ai, ui, excel",0, Entry level,LTIMindtree
+S-179,Mainframe Developer- PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-180,Sharepoint Developer,"ai, ui, excel",0, Entry level,LTIMindtree
+S-181,Sharepoint Developer,"ai, ui, excel",0, Entry level,LTIMindtree
+S-182,Sharepoint Developer,"css, react, ai, ui, html, ml",0, Entry level,LTIMindtree
+S-183,Job| Mainframe Developers | 3-5yrs | PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-184,'Java Full stack Developer',"java, sql, ai, ui, excel, html, ml",0, Entry level,LTIMindtree
+S-185,LTIMindtree Hiring SAP Project Manager,"ai, ui",5, Mid-Senior level,LTIMindtree
+S-186,LTIMindtree Hiring SAP Project Manager,ui,5, Mid-Senior level,LTIMindtree
+S-187,WMS Functional,ui,5, Mid-Senior level,LTIMindtree
+S-188,LTIMindtree Hiring SAP Project Manager,"ai, ui",5, Mid-Senior level,LTIMindtree
+S-189,Python Developer,"python, flask, sql, django, ai, ui, excel",0, Entry level,LTIMindtree
+S-190,Cloud Architect,"ai, ui, excel",5, Mid-Senior level,LTIMindtree
+S-191,SAP Data Specialist,"scala, ai, ui, excel",0, Entry level,LTIMindtree
+S-192,Opening for Fusion HCM Technical Consultant,"ui, excel",5, Mid-Senior level,LTIMindtree
+S-193,Python Architect/Python Tech Lead/Python Technical Lead,"python, scala, pandas, numpy, sql, ui",5, Mid-Senior level,LTIMindtree
+S-194,LTIMindtree Hiring SAP Project Manager,"ai, ui",5, Mid-Senior level,LTIMindtree
+S-195,Hyperion Essbase And Planning,"linux, ai, ui",5, Mid-Senior level,LTIMindtree
+S-196,Oracle EBS Apps Technical Consultant,"sql, ui, excel, ml",5, Mid-Senior level,LTIMindtree
+S-197,'Java Full stack Developer',"java, sql, ai, ui, excel, html, ml",0, Entry level,LTIMindtree
+S-198,'Java Full stack Developer',"java, sql, ai, ui, excel, html, ml",0, Entry level,LTIMindtree
+S-199,EBS Finance Functional,"ai, ui",0, Entry level,LTIMindtree
+S-200,EBS Finance Functional,"ai, ui",0, Entry level,LTIMindtree
+S-201,JDE Technical PAN India,"ai, ui",0, Entry level,LTIMindtree
+S-202,JDE Technical PAN India,"ai, ui",0, Entry level,LTIMindtree
+S-203,LTIMindtree Hiring SAP Project Manager,"scala, ai, excel",5, Mid-Senior level,LTIMindtree
+S-204,Oracle Apps Technical OAF,"java, sql, ai, ui, excel",0, Entry level,LTIMindtree
+S-205,WMS Lead Consultant,"ai, excel",5, Mid-Senior level,LTIMindtree
+S-206,Mainframe Developer- PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-207,Cloud Architect,"ai, ui, excel",5, Mid-Senior level,LTIMindtree
+S-208,Java Full Stack with angular and springboot,"java, sql, ai, ui, excel",0, Entry level,LTIMindtree
+S-209,GCP Professionals,"python, java, hadoop, spark, php, sql, ruby, javascript",0, Entry level,LTIMindtree
+S-210,GCP Professionals,"python, java, hadoop, spark, php, sql, ruby, javascript",0, Entry level,LTIMindtree
+S-211,Oracle Apps Technical OAF,"java, sql, ai, ui, excel",0, Entry level,LTIMindtree
+S-212,Mainframe Developer- PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-213,Java Full Stack with angular and springboot,"java, sql, ai, ui, excel",0, Entry level,LTIMindtree
+S-216,LTIMindtree Hiring - Servicenow Developers,"java, css, javascript, html, ml",0, Entry level,LTIMindtree
+S-217,LTIMindtree Hiring SAP Project Manager,"ai, ui",5, Mid-Senior level,LTIMindtree
+S-218,Hyperion Essbase And Planning,"linux, ai, ui",5, Mid-Senior level,LTIMindtree
+S-219,Hyperion Essbase And Planning,"linux, ai, ui",5, Mid-Senior level,LTIMindtree
+S-220,Hyperion Essbase And Planning,"linux, ai, ui",5, Mid-Senior level,LTIMindtree
+S-221,Primavera Unifier Architect,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-222,Sharepoint Developer,"sql, ai, ui, power bi",0, Entry level,LTIMindtree
+S-223,LTIMindtree Hiring SAP Project Manager,"scala, ai, excel",5, Mid-Senior level,LTIMindtree
+S-224,Program Manager,"ai, ui, excel",0, Entry level,LTIMindtree
+S-225,LTIMindtree Hiring SAP Project Manager,ui,5, Mid-Senior level,LTIMindtree
+S-226,Sharepoint Developer,"css, react, ai, ui, html, ml",0, Entry level,LTIMindtree
+S-227,Sharepoint Developer,"css, react, ai, ui, html, ml",0, Entry level,LTIMindtree
+S-228,Talend Developer,"spark, sql, ai",0, Entry level,LTIMindtree
+S-229,Oracle Apps Technical OAF,"java, sql, ai, ui, excel",0, Entry level,LTIMindtree
+S-230,LTIMindtree Hiring - Servicenow Developers,"java, css, javascript, html, ml",0, Entry level,LTIMindtree
+S-231,Python Architect/Python Tech Lead/Python Technical Lead,"python, scala, pandas, numpy, sql, ui",5, Mid-Senior level,LTIMindtree
+S-232,Mainframe Developer- PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-233,COBOL400 Developer,sql,0, Entry level,LTIMindtree
+S-234,LTIMindtree Hiring SAP Project Manager- PAN India,ai,5, Mid-Senior level,LTIMindtree
+S-235,LTIMindtree Hiring SAP Project Manager,"scala, ai, excel",5, Mid-Senior level,LTIMindtree
+S-236,Oracle Apps Technical OAF,"java, sql, ai, ui, excel",0, Entry level,LTIMindtree
+S-237,LTIMindtree Hiring SAP Project Manager- PAN India,ai,5, Mid-Senior level,LTIMindtree
+S-239,LTIMindtree Hiring SAP Project Manager,"ai, ui",5, Mid-Senior level,LTIMindtree
+S-240,Primavera Unifier Architect,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-241,Oracle Apps Technical OAF,"java, sql, ai, ui, excel",0, Entry level,LTIMindtree
+S-242,OTM Project Lead,"ai, ui, excel, ml",5, Mid-Senior level,LTIMindtree
+S-243,Mainframe Developer- PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-244,Mainframe Developer- PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-245,GTM/OTM Functional Consultant,"ai, ui",5, Mid-Senior level,LTIMindtree
+S-246,PLSQL Development - LTIMindtree.,"java, sql, css, ai, ui, html, ml",0, Entry level,LTIMindtree
+S-247,Mainframe Developer- PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-248,Mainframe Developer- PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-249,Business Analyst,"ai, ui",5, Mid-Senior level,LTIMindtree
+S-250,Obiee Developer,ai,5, Mid-Senior level,LTIMindtree
+S-251,EBS Finance Functional,"ai, ui",0, Entry level,LTIMindtree
+S-252,LTIMindtree Hiring SAP Project Manager- PAN India,ai,5, Mid-Senior level,LTIMindtree
+S-253,LTIMindtree Hiring SAP Project Manager- PAN India,ai,5, Mid-Senior level,LTIMindtree
+S-254,Mainframe Developer- PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-255,JAVA Full stack Developer,"java, sql, ai, ui, excel",0, Entry level,LTIMindtree
+S-256,LTIMindtree Hiring SAP Project Manager,"ai, ui",5, Mid-Senior level,LTIMindtree
+S-257,Mainframe Developer- PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-258,Mainframe Developer- PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-259,Opening for Fusion Finance Functional Consultant,"ai, ui, excel",5, Mid-Senior level,LTIMindtree
+S-260,LTIMindtree Hiring - Servicenow Developers,"java, css, javascript, html, ml",0, Entry level,LTIMindtree
+S-261,"Opening for PSFT Finance Technical Consultant in LTIM, India","ai, ui",5, Mid-Senior level,LTIMindtree
+S-262,JDE Technical PAN India,"ai, ui",0, Entry level,LTIMindtree
+S-263,Cloud Architect,"ai, ui, excel",5, Mid-Senior level,LTIMindtree
+S-264,Python Architect/Python Tech Lead/Python Technical Lead,"python, scala, pandas, numpy, sql, ui",5, Mid-Senior level,LTIMindtree
+S-265,JDE Technical PAN India,"ai, ui",0, Entry level,LTIMindtree
+S-266,LTI Hiring for Central Finance.,ai,0, Entry level,LTIMindtree
+S-267,Oracle Apps Technical OAF,"java, sql, ai, ui, excel",0, Entry level,LTIMindtree
+S-268,Fusion Finance Architect,"ai, ui, excel",5, Mid-Senior level,LTIMindtree
+S-269,JDE Finance PAN India,"ai, ui, excel",0, Entry level,LTIMindtree
+S-270,Pega CSSA Specialist,"sql, css, ml",5, Mid-Senior level,LTIMindtree
+S-271,Pega CSSA Specialist,"sql, css, ml",5, Mid-Senior level,LTIMindtree
+S-272,Data Modeler,"sql, ai, ui",0, Entry level,LTIMindtree
+S-273,Fusion HCM Technical,"ui, excel",0, Entry level,LTIMindtree
+S-274,SAP Project Manager,ai,5, Mid-Senior level,LTIMindtree
+S-275,Pega CSSA Specialist,"sql, css, ml",5, Mid-Senior level,LTIMindtree
+S-276,PLSQL Development - LTIMindtree.,"java, sql, css, ai, ui, html, ml",0, Entry level,LTIMindtree
+S-277,JDE Technical PAN India,"ai, ui",0, Entry level,LTIMindtree
+S-278,Mainframe Developer- PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-279,LTIMindtree Hiring SAP Project Manager,"ai, ui",5, Mid-Senior level,LTIMindtree
+S-280,OIC Developer,"ai, ui, excel, ml",0, Entry level,LTIMindtree
+S-281,Solace Admin,"ui, excel",0, Entry level,LTIMindtree
+S-282,Data Modeler,"sql, ai, ui",0, Entry level,LTIMindtree
+S-283,Mainframe Developer- PAN India,"sql, ai, ui",5, Mid-Senior level,LTIMindtree
+S-284,LTI Hiring for Central Finance.,ai,0, Entry level,LTIMindtree
+S-285,Siebel Developer,"ai, ui",0, Entry level,LTIMindtree
+S-286,Fusion Finance Architect,"ai, ui, excel",5, Mid-Senior level,LTIMindtree
+S-289,SQL Developer,"java, sql, javascript, ai, ui, excel, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-290,Project Manager,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-291,Project Manager,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-292,Manual Tester,ai,0, Entry level,IDESLABS PRIVATE LIMITED
+S-293,Project Manager,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-294,Java Developer,"java, sql, mysql, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-295,Pl/SQL Developer,"sql, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-296,Project Manager,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-297,Associate Business Consultant,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-298,Delivery Manager,"ai, ui, excel",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-299,Jr. Software Engineer,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-300,Test Engineer,ui,0, Entry level,IDESLABS PRIVATE LIMITED
+S-301,React Developer,"css, react, ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-302,Java developer,"java, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-303,Associate Business Consultant,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-304,WAS Admin,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-305,Backend Engineer,"sql, ai, ui, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-306,Solution Analyst,"ai, ui, excel",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-307,Project Manager,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-308,SAP BASIS,"sql, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-309,Sr. Test Engineer,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-310,Project Manager,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-311,SAP MM CONSULTANT,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-312,SQL Server DBA,"sql, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-313,Windows Admin,"scala, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-314,Associate Business Consultant,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-315,Project Manager,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-316,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-317,Project Manager,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-318,Network Automation,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-319,Change Manager,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-320,SQL Server DBA,"scala, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-321,Project Manager,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-322,SAP PROJECT MANAGER with ABAP,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-323,Dot Net developer,"sql, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-324,Team Lead,"java, sql, ai, ui, ml",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-325,Software Engineer,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-326,SAP ABAP,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-327,SAP QE/PO,ai,0, Entry level,IDESLABS PRIVATE LIMITED
+S-328,Test Lead,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-329,Associate Tech Specialist,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-330,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-331,SAP MM/WM,ai,5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-332,Business Analyst,"ai, ui, excel",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-333,Frontend Developer,"java, css, javascript, react, ai",0, Entry level,IDESLABS PRIVATE LIMITED
+S-334,Project Manager,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-335,Scrum Master,ai,5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-336,SQL Server DBA,"sql, ai",0, Entry level,IDESLABS PRIVATE LIMITED
+S-337,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-338,Associate Business Consultant,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-339,SAP Abap-Sr. Software Engineer-Vizag,"sql, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-340,Associate Business Consultant,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-341,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-342,Java Developers,"java, ai, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-343,Security Analyst,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-344,Engineer,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-345,QA Engineer,"java, scala, sql, ai, ui, selenium",0, Entry level,IDESLABS PRIVATE LIMITED
+S-346,IT Recruiter,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-347,Software Engineer,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-348,Project Manager,"scala, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-349,Sr. Test Engineer,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-350,Associate Tech Specialist,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-351,Engineer,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-352,Test Engineer,ui,0, Entry level,IDESLABS PRIVATE LIMITED
+S-353,Sr. Associate -UX,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-354,SAP QA Tester,ai,0, Entry level,IDESLABS PRIVATE LIMITED
+S-355,Software Engineer,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-356,SAP BW- Tech Lead,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-357,Test Engineer,ui,0, Entry level,IDESLABS PRIVATE LIMITED
+S-358,Core Java,"java, sql, linux, ai, ui, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-359,Sr. Engineer,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-360,QA,"java, sql, ai, ui, selenium",0, Entry level,IDESLABS PRIVATE LIMITED
+S-361,Angular Developer,"java, css, javascript, ai, ui, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-362,Java Developer,"java, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-363,Web Developer,"java, css, javascript, react, reactjs, ai, ui, nodejs, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-364,AWS Devops engineer,"scala, ai",0, Entry level,IDESLABS PRIVATE LIMITED
+S-365,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-366,Java Developers,"java, sql, react, reactjs, ai",0, Entry level,IDESLABS PRIVATE LIMITED
+S-367,SAP ABAP(HR),ai,5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-368,Associate Tech Specialist,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-369,Team Lead,"java, javascript, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-370,Associate Team Lead,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-371,.Net Lead,"sql, ai",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-372,Sr. Security Analyst,"css, ai, ui, html, ml",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-373,.NET Full stack Developer,"java, sql, javascript, ai, ui, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-374,Sr. Engineer,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-375,SAP Project Manager,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-376,Informatica Developer,"sql, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-377,Delivery Head,"ai, ui",10, Director,IDESLABS PRIVATE LIMITED
+S-378,Software Engineer,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-379,Lead-PMO,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-380,Project Manager,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-381,SAP BASIS,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-382,Project Manager,"sql, ai, ui, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-383,Project Manager,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-384,Associate Tech Specialist,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-385,UI/UX Developer,"react, ai, ui, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-386,Devops Engineer,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-387,Software Engineer,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-388,SAP MM-S4 HANA Consultant,ai,5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-389,SAP MM/PP,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-390,Recruitment Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-391,Team Lead,"java, css, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-392,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-393,Java-front end Developer,"java, ai",0, Entry level,IDESLABS PRIVATE LIMITED
+S-394,SAP PI/PO,ai,5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-395,Team Lead,"sql, ai, ml",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-396,Dot Net Developer,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-397,Business Consultant,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-398,Customer Delivery Head,"ai, ui",10, Director,IDESLABS PRIVATE LIMITED
+S-399,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-400,Associate Team Lead,"java, linux, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-401,Associate Security Consultant,"scala, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-402,Team Lead,"java, sql, linux, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-403,Team Lead,"ai, ui, excel, ml",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-404,SAP ABAP OData,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-405,HCM HR,ai,0, Entry level,IDESLABS PRIVATE LIMITED
+S-406,Associate Tech Specialist,ui,0, Entry level,IDESLABS PRIVATE LIMITED
+S-407,SAP Basis-Module Lead,"sql, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-408,Dot net Developer / Sr. Developer,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-409,Team Lead,"python, linux, ui, ml",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-410,Associate Solution Architect,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-411,Support Analyst,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-412,Project Lead,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-413,SAP ABAP on HANA,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-414,Oracle SCM Technical,ai,0, Entry level,IDESLABS PRIVATE LIMITED
+S-415,Associate Security Consultant,"scala, ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-416,Team Lead,"sql, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-417,SAP FICO,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-418,AWS DevOps,"scala, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-419,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-420,Solution Architect,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-421,Oracle IAM with Java Developer,"java, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-422,Business Analyst,"sql, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-423,Associate Tech Specialist,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-424,Associate Tech Specialist,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-425,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-426,Power BI Developer,"ai, power bi",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-427,Team Lead,"java, sql, javascript, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-428,Java Backend,"java, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-429,Oracle Finance Technical Consultant,"scala, sql, ai, ui, excel",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-430,PHP Developer,"java, php, sql, css, ai, ui, nodejs, excel, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-431,Database Admin. Sr Cnslt.,"sql, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-432,Tech Manager,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-433,AWS Engineer,"scala, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-434,Team Lead,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-435,SAP Abap Workflow - Module Lead,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-436,Sr. Engineer,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-437,"Full stack developer – Angular/C#,.Net.","java, sql, css, javascript, ai, ui, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-438,SAP BASIS with Selenium,"ai, selenium",0, Entry level,IDESLABS PRIVATE LIMITED
+S-439,Sr. Engineer,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-440,Associate Tech Specialist,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-441,Project Lead,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-442,SAP BI (BW) Lead,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-443,SAP MM WITH RELEASE STRATERGY,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-444,Associate Tech Specialist,"java, sql, mysql, ai, ui, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-445,SAP Security Consultant,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-446,Java-Back end Developer,"java, ai",0, Entry level,IDESLABS PRIVATE LIMITED
+S-447,SAP BASIS Consultant-S4 HANA,ai,5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-448,QA Engineer,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-449,Software Engineer,"java, spark, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-450,Associate Software Engineer,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-451,Team Lead,"python, java, scala, javascript, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-452,Data Architect,"sql, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-453,SAP ABSIS Admin,"java, linux, ai, ui, excel, ml",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-454,Tech Manager,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-455,Associate Tech Specialist,"java, sql, mysql, css, javascript, ai, ui, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-456,Test Manager,"java, ai, excel, selenium",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-457,SAP FICO,ai,5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-458,SAP ABAP + Customization,ai,5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-459,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-460,.Net Core Developer,"java, css, javascript, react, ai, ui, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-461,Associate Security Consultant,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-462,Tech Manager,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-463,SAP MM with API,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-464,Associate Security Consultant,"python, linux, ai, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-465,Mainframe Developer,"java, css, javascript, react, ai, ui, html, ml",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-466,Tech Manager,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-467,Project Manager- Jaipur,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-468,Delivery Manager,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-469,Lead DBA,"hadoop, sql, mysql, mongodb, linux, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-470,SAP ABAP OOPS,ai,5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-471,ABAP Developer - Module Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-473,SAP ABAP For NTT DATA,ai,5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-474,Engineer,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-475,Associate Tech Specialist,"java, sql, ai, ui, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-476,Dot Net Developer,"sql, css, tensorflow, react, ai, ui, html, ml",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-477,Sr. Security Analyst,"linux, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-478,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-479,OFM Admin with SOA,"linux, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-480,Senior AWS Developer,"ai, ui, nodejs",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-481,Power BI Developer,"sql, ai, ui, power bi",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-482,Team Lead,"scala, ai, ui, excel, html, ml",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-483,Associate Tech Specialist,"java, css, javascript, ui, excel, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-484,SAP ABAP-CDS Developer,ai,5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-485,Java Spring Boot Developer,"java, react, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-486,Front end developers,"css, ai, ui, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-487,Project Lead,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-488,Network Lead,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-489,Associate Technical Architect,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-490,Sr. Software Engineer,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-491,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-492,Program Manager,"java, sql, ai, ui, excel, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-493,SAP FICO,"ai, ui, excel",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-494,Security Consultant,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-495,SAP FICO,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-496,UI Angular,"java, sql, css, linux, javascript, ai, ui, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-497,Project Lead,"scala, ai",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-498,Business Consultant,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-499,Associate Technical Architect,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-500,SAP Basis - Tech Manager,ai,5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-501,Associate Tech Specialist,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-502,Sr. Software Engineer,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-503,Associate Business Consultant,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-504,Associate Tech Specialist,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-505,Associate Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-506,SAP HCM Lead Consultant,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-507,Backup Admin - Mumbai Location,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-508,Security Consultant,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-509,SAP FICO,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-510,Associate Tech Specialist,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-511,Group Manager-Operations,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-512,Kronos Custom Reports,ai,0, Entry level,IDESLABS PRIVATE LIMITED
+S-513,Oracle Fusion CRM Consultant,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-514,Testing,ai,0, Entry level,IDESLABS PRIVATE LIMITED
+S-515,Java Spring Boot Developer,"java, css, ai, ui, excel, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-516,Associate Tech Specialist,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-517,Java Fullstack Developer,"java, ai",0, Entry level,IDESLABS PRIVATE LIMITED
+S-518,Tech Manager,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-519,Associate Tech Specialist,"java, sql, mysql, css, javascript, ai, ui, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-520,Tech Lead,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-521,Software Development Analyst,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-522,Bioinformatics QA,ai,0, Entry level,IDESLABS PRIVATE LIMITED
+S-523,Dot net Developer / Sr. Developer,"java, sql, mysql, javascript, ai, ui, html, ml",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-524,Project Manager,"java, css, javascript, react, ai, ui, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-525,Tech Manager,"ai, ui, excel",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-526,Sr. Software Engineer,"java, sql, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-527,Tech Manager,"java, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-528,Associate Tech Specialist,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-529,Pega Developer,"ai, ui, excel, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-530,Project Lead,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-531,SAP MDG with ABAP,ai,5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-532,Associate Technical Architect,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-533,CRM Customer Service,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-534,RPA UI PATH,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-535,Java developer,"java, linux, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-536,Java Full Stack Developer,"java, css, javascript, react, ai, ui, html, ml",0, Entry level,IDESLABS PRIVATE LIMITED
+S-537,Solution Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-538,Learning Consultant,"java, scala, sql, css, javascript, react, ui, html, ml",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-539,Sr. Test Engineer,"linux, ai, ui, excel",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-540,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-541,Business Analyst,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-542,Team Lead,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-543,Sharepoint Migration Engineer,"ai, ui, excel",0, Entry level,IDESLABS PRIVATE LIMITED
+S-544,Sr. Engineer,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-545,Required SAP FICO Consultants for Contract,"ai, ui, excel",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-546,Manual Tester,"scala, ai, ui, excel, selenium",0, Entry level,IDESLABS PRIVATE LIMITED
+S-547,Software Engineer,"ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-548,Devops Engineer,"python, linux, ruby, ai, ui",0, Entry level,IDESLABS PRIVATE LIMITED
+S-549,AWS ENGINEER,ai,0, Entry level,IDESLABS PRIVATE LIMITED
+S-550,SAP Security with S4 HANA,ai,0, Entry level,IDESLABS PRIVATE LIMITED
+S-551,SAP PM with FICO,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-552,Business Analyst,"ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-553,Project Lead,"scala, ai, ui",5, Mid-Senior level,IDESLABS PRIVATE LIMITED
+S-554,Marketing Associate,"ai, excel",0, Entry level,Cactus Communications
+S-555,CACTUS Talent Community,"ai, ui",0, Entry level,Cactus Communications
+S-556,Mis Executive,excel,5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-557,Mis Executive,excel,5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-558,MIS Executive (Insuretech Company),"ai, excel",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-559,Talent Acquisition Manager (With leading Bank),"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-560,Project Manager,"ai, ui",0, Entry level,ACURA SOLUTIONS LTD
+S-561,Associate Consultant (Hospital Management System),"ai, ui",0, Entry level,ACURA SOLUTIONS LTD
+S-563,Customer Service Executive- Retail Assets- Noida,"ai, excel",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-564,Software QA Engineer 2 / Senior QA Engineer / Manual Test Lead / Automation Test,"java, sql, mysql, mongodb, ai, ui, selenium",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-565,Software QA Engineer 2 / Senior QA Engineer / Manual Test Lead / Automation Test,"java, sql, mysql, mongodb, ai, ui, selenium",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-566,Frontend Developer (Insuretech Company),"java, sql, ui",0, Entry level,ACURA SOLUTIONS LTD
+S-567,Consultant - Internal Audit,ui,5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-568,Customer Service Executive- Retail Assets- Noida,"ai, excel",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-569,MSBI Developer,sql,5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-570,Node.js Developer (For IT Consulting),"scala, sql, ai, nodejs",0, Entry level,ACURA SOLUTIONS LTD
+S-571,Teller Authorizer,ai,0, Entry level,ACURA SOLUTIONS LTD
+S-572,Senior Associate / Consultant KYC/CDD,"ai, ml",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-575,Internal Audit - Consultant,"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-576,SAP Security,"java, html, ml",0, Entry level,ACURA SOLUTIONS LTD
+S-577,SAP Security,"java, html, ml",0, Entry level,ACURA SOLUTIONS LTD
+S-578,Analyst Consultant_Private Equity,"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-579,"MERN Developer (MongoDB, ExpressJS,ReactJS,NodeJS)","mongodb, react, reactjs, ai, ui, nodejs",0, Entry level,ACURA SOLUTIONS LTD
+S-580,Deputy Branch Manager ( Leading Pvt. Bank),"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-583,Deputy Branch Manager ( Leading Pvt. Bank),"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-585,Assitance Manager - Purchase ( Jejuri - Pune location),"ui, excel",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-586,E-Commerce Manager - Agritech Company,ai,5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-587,Digital Marketing Executive,"ai, ui, excel",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-588,BDM-Business Loan in a Leading MNC Bank,ai,5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-589,TASC RM ( Leading Pvt. Bank),"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-590,UI/UX developer,ui,0, Entry level,ACURA SOLUTIONS LTD
+S-591,Telecaller Executive (Fintech Firm),"ai, ui",0, Entry level,ACURA SOLUTIONS LTD
+S-592,Software Tester (Insuretech Company),"ui, excel",0, Entry level,ACURA SOLUTIONS LTD
+S-593,Social Media Manager with Insure-tech company,ai,5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-594,Teller Authorizer,ai,0, Entry level,ACURA SOLUTIONS LTD
+S-595,Teller Authorizer,ai,0, Entry level,ACURA SOLUTIONS LTD
+S-596,Data Analyst (Business professional Institute),"python, sql, tableau, excel",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-597,BDM for a Reputed MNC Bank.,"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-598,Digital Marketing,ai,0, Entry level,ACURA SOLUTIONS LTD
+S-599,Associate Software Engineer - .Net (Fintech Company),"java, sql, javascript, ai, ui, html, ml",0, Entry level,ACURA SOLUTIONS LTD
+S-600,BDM-Business Loan in a Leading MNC Bank,ai,5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-601,Senior Associate / Consultant Compliance with Big 5 company,ui,5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-602,Associate Consultant - Data Migration,"sql, ai, ui, excel",0, Entry level,ACURA SOLUTIONS LTD
+S-603,Deputy Branch Manager ( Leading Pvt. Bank),"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-604,Internal Audit - Consultant,"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-605,Teller Authorizer,ai,0, Entry level,ACURA SOLUTIONS LTD
+S-606,Teller Authorizer,ai,0, Entry level,ACURA SOLUTIONS LTD
+S-607,AVP Home Loans,"ai, excel",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-608,Hiring for Associate Consultant - Reporting with a MNC Pharmaceutical Firm,"python, java, sql, javascript, ai, ui, excel",0, Entry level,ACURA SOLUTIONS LTD
+S-609,Content Writer (Hindi) - Insurance,ai,0, Entry level,ACURA SOLUTIONS LTD
+S-610,TASC RM ( Leading Pvt. Bank),"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-611,Relationship Manager - Business Banking (Mid Corporate),"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-612,Manager - Statutory IT Auditor,"tableau, power bi",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-613,Manager - Statutory IT Auditor,"tableau, power bi",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-614,"MERN Developer (MongoDB, ExpressJS,ReactJS,NodeJS)","react, reactjs, ai, ui, nodejs",0, Entry level,ACURA SOLUTIONS LTD
+S-615,"MERN Developer (MongoDB, ExpressJS,ReactJS,NodeJS)","react, reactjs, ai, ui, nodejs",0, Entry level,ACURA SOLUTIONS LTD
+S-616,"MERN Developer (MongoDB, ExpressJS,ReactJS,NodeJS)","react, reactjs, ai, ui, nodejs",0, Entry level,ACURA SOLUTIONS LTD
+S-617,Manager - Statutory IT Auditor,"tableau, power bi",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-618,Manager - Statutory IT Auditor,"tableau, power bi",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-619,Analyst Consultant_Private Equity,"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-620,Software QA Engineer 2 / Senior QA Engineer / Manual Test Lead / Automation Test,"java, sql, mysql, mongodb, ai, ui, selenium",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-621,Manager - Statutory IT Auditor,"tableau, power bi",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-622,Flexi Banker,"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-623,Deputy Branch Manager ( Leading Pvt. Bank),"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-624,Looker BI Developer,"python, java, sql, javascript, ui, ml",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-625,Associate Principal - Strategy Consulting- (Pharmaceutical MNC),"scala, ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-626,Associate Principal - Strategy Consulting- (Pharmaceutical MNC),"scala, ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-627,Lead- Digital Business Process Re-engineering,ui,0, Entry level,ACURA SOLUTIONS LTD
+S-628,Branch Relationship Manager,"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-629,Ui Ux Developer - Mumbai,"java, php, css, javascript, ui, html, ml",0, Entry level,ACURA SOLUTIONS LTD
+S-630,Hiring for Branch Relationship Manager,"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-631,Hiring for Branch Relationship Manager,"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-632,Looker BI Developer,"python, java, sql, javascript, ui, ml",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-633,Associate Software Engineer- React Js with a Leading Fintech Company,"java, sql, mysql, css, mongodb, ruby, javascript, react, ai, excel, html, ml",0, Entry level,ACURA SOLUTIONS LTD
+S-634,Human Resource Recruiter (HR),"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-635,"MERN Developer (MongoDB, ExpressJS,ReactJS,NodeJS)","react, reactjs, ai, ui, nodejs",0, Entry level,ACURA SOLUTIONS LTD
+S-636,"MERN Developer (MongoDB, ExpressJS,ReactJS,NodeJS)","react, reactjs, ai, ui, nodejs",0, Entry level,ACURA SOLUTIONS LTD
+S-637,Hiring for Associate Consultant- Data Migration with a MNC Pharmaceutical Firm,"python, sql, ai, ui, excel",0, Entry level,ACURA SOLUTIONS LTD
+S-638,Manager - Statutory IT Auditor,"tableau, power bi",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-639,Branch Manager,"ai, ui, excel",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-640,Manager Strategic Planning,"scala, ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-641,Assistant Manager - Cyber ITGC with Big 5 company,ai,5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-642,Assistant Manager - Cyber ITGC with Big 5 company,ai,5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-643,NodeJs Developer (With the fintech firm),"scala, sql, ai, nodejs",0, Entry level,ACURA SOLUTIONS LTD
+S-644,Associate Consultant- Reporting with a Leading pharmaceutical MNC,"python, java, sql, javascript, ai, ui, excel",0, Entry level,ACURA SOLUTIONS LTD
+S-645,Manager - Statutory IT Auditor,"tableau, power bi",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-646,Manager - E-Commerce (For Agritech company),ai,5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-647,TASC RM ( Leading Pvt. Bank),"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-648,Analyst Consultant (Private Equity),"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-649,Associate Software Engineer - React JS (Fintech Company),"react, ai",0, Entry level,ACURA SOLUTIONS LTD
+S-650,SR UI/UX developer (Frontend + UI/UX development),"java, scala, php, css, javascript, ai, ui, html, ml",0, Entry level,ACURA SOLUTIONS LTD
+S-651,Branch Relationship Manager,"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-652,Hiring for Branch Relationship Manager,"ai, ui",5, Mid-Senior level,ACURA SOLUTIONS LTD
+S-653,Technical Lead,java,5, Mid-Senior level,UST
+S-654,Manager-Regional Account Service,"scala, react, ai, ui",5, Mid-Senior level,Vodafone Idea Limited
+S-655,AGM - Zonal Technical Manager,"ai, ui, excel",5, Mid-Senior level,Vodafone Idea Limited
+S-656,AGM-Product Management,"ai, ui",5, Mid-Senior level,Vodafone Idea Limited
+S-657,Administrative Officer,ui,1, Associate,Tata Consultancy Services
+S-658,Embedded Engineer,"c++, ai, ui",5, Mid-Senior level,Tata Consultancy Services
+S-659,Python,"python, scala, ai, ui, excel, ml",5, Mid-Senior level,Tata Consultancy Services
+S-660,NodeJS,"ai, nodejs",1, Associate,Tata Consultancy Services
+S-661,Embedded Engineer,"python, c++, scala, ui",5, Mid-Senior level,Tata Consultancy Services
+S-662,NodeJS,"ai, nodejs",1, Associate,Tata Consultancy Services
+S-663,Python,"python, scala, flask, django, ai, ui, ml",1, Associate,Tata Consultancy Services
+S-664,Automotive Embedded Cybersecurity,ui,5, Mid-Senior level,Tata Consultancy Services
+S-665,NodeJS,"ai, nodejs",1, Associate,Tata Consultancy Services
+S-666,Embedded Engineer,"c++, ai, ui",5, Mid-Senior level,Tata Consultancy Services
+S-667,Node JS,"java, javascript, ai, ui",5, Mid-Senior level,Tata Consultancy Services
+S-668,NodeJS,"ai, nodejs",1, Associate,Tata Consultancy Services
+S-669,NodeJS,"ai, nodejs",1, Associate,Tata Consultancy Services
+S-670,node js,"mongodb, ai, ui, excel",1, Associate,Tata Consultancy Services
+S-671,Artificial Intelligence Engineer - WFH,"python, c++, java, hadoop, spark, nltk, linux, javascript, ai, ui, ml",5, Mid-Senior level,Uplers
+S-672,Dotnet Developer- WFH,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-673,Dotnet Developer- WFH,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-674,Dotnet Developer- WFH,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-675,Full Stack Developer,"css, react, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-676,Dotnet Developer- WFH,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-677,Python Software Engineer,"python, java, flask, sql, mysql, css, mongodb, javascript, django, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-678,Dotnet Developer- WFH,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-679,Dotnet Developer- WFH,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-680,Python Web Developer,"python, java, flask, sql, mysql, css, mongodb, javascript, django, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-681,Full Stack Software Engineer,"css, react, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-682,Software Engineer - Senior,"python, java, scala, php, sql, mysql, mongodb, javascript, react, ai, ui, nodejs, excel",5, Mid-Senior level,Uplers
+S-683,Python Web Developer,"python, java, flask, sql, mysql, css, mongodb, javascript, django, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-684,Back End Developer,"ai, ui",5, Mid-Senior level,Uplers
+S-685,Python Tech Lead,"python, java, flask, sql, mysql, css, mongodb, javascript, django, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-686,Web Developer - Python,"python, java, flask, sql, mysql, css, mongodb, javascript, django, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-687,Web Developer - Python,"python, java, flask, sql, mysql, css, mongodb, javascript, django, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-688,Sr. Software Engineer,"python, java, scala, php, sql, mysql, mongodb, javascript, react, ai, ui, nodejs, excel",5, Mid-Senior level,Uplers
+S-689,Web Developer - Python,"python, java, flask, sql, mysql, css, mongodb, javascript, django, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-690,Python Software Engineer,"python, java, flask, sql, mysql, css, mongodb, javascript, django, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-691,Software Engineer- Blockchain,"python, java, ruby, javascript, ai, ui",5, Mid-Senior level,Uplers
+S-692,Search Executive,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-693,Full Stack Developer,"css, react, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-694,Data Architect,"python, hadoop, scala, spark, sql, mongodb, ai, ui, excel",5, Mid-Senior level,Uplers
+S-695,Software Engineer- Blockchain,"python, java, ruby, javascript, ai, ui",5, Mid-Senior level,Uplers
+S-696,Big Data Engineer - WFH,"python, c++, java, hadoop, scala, spark, sql, ai, ui",5, Mid-Senior level,Uplers
+S-697,Software Engineer- Blockchain,"python, java, ruby, javascript, ai, ui",5, Mid-Senior level,Uplers
+S-698,Cloud Software Engineer,"ai, ui",5, Mid-Senior level,Uplers
+S-699,Data Scientist- WFH,"python, c++, java, hadoop, scala, sql, ai, ui, tableau, excel",5, Mid-Senior level,Uplers
+S-700,PPC Executive,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-701,Software Engineer- Blockchain,"python, java, ruby, javascript, ai, ui",5, Mid-Senior level,Uplers
+S-702,Data Scientist- WFH,"python, c++, java, hadoop, scala, sql, ai, ui, tableau, excel",5, Mid-Senior level,Uplers
+S-703,Software Engineer- Blockchain,"python, java, ruby, javascript, ai, ui",5, Mid-Senior level,Uplers
+S-704,Technical Architect,"python, hadoop, scala, spark, sql, mongodb, ai, ui, excel",5, Mid-Senior level,Uplers
+S-705,ML Engineer - Remote,"python, c++, java, hadoop, spark, nltk, linux, javascript, ai, ui, ml",5, Mid-Senior level,Uplers
+S-706,Big Data Engineer - WFH,"python, c++, java, hadoop, scala, spark, sql, ai, ui",5, Mid-Senior level,Uplers
+S-707,UI/UX Designer,"java, php, sql, css, ai, ui, excel, html, ml",5, Mid-Senior level,Uplers
+S-708,SF Tech Architect,"scala, ai, ui, excel",5, Mid-Senior level,Uplers
+S-709,Python Developer,"python, c++, java, hadoop, scala, spark, sql, ai, ui",5, Mid-Senior level,Uplers
+S-710,Systems Engineer- Back End,"python, sql, ruby, ai, ui, nodejs",5, Mid-Senior level,Uplers
+S-711,Android Engineer- WFH,"java, ai, ui",5, Mid-Senior level,Uplers
+S-712,Associate Python Programmer,"python, java, flask, sql, mysql, css, mongodb, javascript, django, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-713,Sr. Salesforce Developer (WFH),"java, css, javascript, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-714,Android App Developer- WFH,"java, ai, ui",5, Mid-Senior level,Uplers
+S-715,Data Scientist- WFH,"python, c++, java, hadoop, scala, sql, ai, ui, tableau, excel",5, Mid-Senior level,Uplers
+S-716,Android App Developer- WFH,"java, ai, ui",5, Mid-Senior level,Uplers
+S-717,PPC Executive- Associate,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-718,Python Software Developer,"python, c++, java, hadoop, scala, spark, sql, ai, ui",5, Mid-Senior level,Uplers
+S-719,Unity Developer (WFH),"python, c++, ai, ui",5, Mid-Senior level,Uplers
+S-720,Dotnet Software Developer,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-721,Back End Developer,"ai, ui",5, Mid-Senior level,Uplers
+S-722,Cloud Software Engineer,"ai, ui",5, Mid-Senior level,Uplers
+S-723,Unity Developer (WFH),"python, c++, ai, ui",5, Mid-Senior level,Uplers
+S-724,Data Solutions Architect,"python, hadoop, scala, spark, sql, mongodb, ai, ui, excel",5, Mid-Senior level,Uplers
+S-725,Data Engineering Expert - WFH,"python, c++, java, hadoop, scala, spark, sql, ai, ui",5, Mid-Senior level,Uplers
+S-726,Dotnet Software Developer,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-727,Search Engine Marketing (SEM) Manager,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-728,Unity Developer (WFH),"python, c++, ai, ui",5, Mid-Senior level,Uplers
+S-729,Data Engineering Expert - WFH,"python, c++, java, hadoop, scala, spark, sql, ai, ui",5, Mid-Senior level,Uplers
+S-730,Data Engineer,"python, scala, flask, sql, ai, ui",5, Mid-Senior level,Uplers
+S-731,Manager - Search Engine Marketing,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-732,Unity Developer (WFH),"python, c++, ai, ui",5, Mid-Senior level,Uplers
+S-733,Full Stack Developer (React & Node.js),"css, react, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-734,SF Tech Architect - Associate,"scala, ai, ui, excel",5, Mid-Senior level,Uplers
+S-735,Associate Python Programmer,"python, java, flask, sql, mysql, css, mongodb, javascript, django, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-736,Python Developer,"python, c++, java, hadoop, scala, spark, sql, ai, ui",5, Mid-Senior level,Uplers
+S-737,Staff Software Engineer,"python, java, scala, php, sql, mysql, mongodb, javascript, react, ai, ui, nodejs, excel",5, Mid-Senior level,Uplers
+S-738,Cloud Software Engineer,"ai, ui",5, Mid-Senior level,Uplers
+S-739,Performance Marketing Executive,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-740,Java Associate Developer (WFH),"java, sql, css, linux, javascript, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-741,Lead Google Analytics (WFH),"java, css, javascript, ai, ui, power bi, html, ml",5, Mid-Senior level,Uplers
+S-742,Associate - Programmatic,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-743,Dotnet Software Developer,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-744,Fullstack developer,"css, react, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-745,Dotnet Software Developer,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-746,Sr. Quality Analyst,"c++, sql, ai, ui, excel, selenium, ml",1, Associate,Uplers
+S-747,Lead Data Engineer,"python, sql, ai, ui, tableau, excel, power bi",5, Mid-Senior level,Uplers
+S-748,SEM Specialist,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-749,Dotnet Software Developer,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-750,Sr. Quality Analyst,"c++, sql, ai, ui, excel, selenium, ml",1, Associate,Uplers
+S-751,Dotnet Software Developer,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-752,Senior Python Programmer,"python, java, flask, sql, mysql, css, mongodb, javascript, django, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-753,.Net Framework Developer,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-754,Android Developer- WFH,"java, ai, ui",5, Mid-Senior level,Uplers
+S-755,Senior Ad-Tech Specialist,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-756,Python Developer,"python, c++, java, hadoop, scala, spark, sql, ai, ui",5, Mid-Senior level,Uplers
+S-757,Senior Software Engineer (WFH),"java, sql, css, linux, javascript, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-758,AI Engineer - WFH,"python, c++, java, hadoop, spark, nltk, linux, javascript, ai, ui, ml",5, Mid-Senior level,Uplers
+S-759,Lead Data Engineer - WFH,"python, c++, java, hadoop, scala, spark, sql, ai, ui",5, Mid-Senior level,Uplers
+S-760,.Net Core Developer,"sql, css, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-761,Java Software Engineer,"java, sql, css, linux, javascript, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-762,Search Engine Marketing Manager,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-763,Android Developer- WFH,"java, ai, ui",5, Mid-Senior level,Uplers
+S-764,Blockchain Software Developer,"python, java, ruby, javascript, ai, ui",5, Mid-Senior level,Uplers
+S-765,React Developer,"java, javascript, react, reactjs, ui",5, Mid-Senior level,Uplers
+S-766,Full Stack Engineer (React/Node.js),"css, react, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-767,UI/UX Designer,"java, php, sql, css, ai, ui, excel, html, ml",5, Mid-Senior level,Uplers
+S-768,Database Engineer,"python, sql, ai, ui, tableau, excel, power bi",5, Mid-Senior level,Uplers
+S-769,Mobile Developer- Android,"java, ai, ui",5, Mid-Senior level,Uplers
+S-770,Associate Digital Marketing (WFH),"scala, ai, ui",5, Mid-Senior level,Uplers
+S-771,Android Engineer- WFH,"java, ai, ui",5, Mid-Senior level,Uplers
+S-772,Associate Digital Marketing (WFH),"scala, ai, ui",5, Mid-Senior level,Uplers
+S-773,Engineer - Lead,"python, java, scala, sql, mysql, mongodb, javascript, react, ai, ui, nodejs",5, Mid-Senior level,Uplers
+S-774,Mobile Developer- Android,"java, ai, ui",5, Mid-Senior level,Uplers
+S-775,Paid Search Executive,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-776,Python Developer - WFH,"python, java, flask, sql, mysql, css, mongodb, javascript, django, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-777,Android Engineer- WFH,"java, ai, ui",5, Mid-Senior level,Uplers
+S-778,Campaign Analyst - Programmatic,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-779,Python Developer - WFH,"python, java, flask, sql, mysql, css, mongodb, javascript, django, ai, ui, html, ml",5, Mid-Senior level,Uplers
+S-780,PPC Specialist,"scala, ai, ui",5, Mid-Senior level,Uplers
+S-781,Senior Ad Operations Specialist,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-782,React Developer,"java, javascript, react, reactjs, ui",5, Mid-Senior level,Uplers
+S-783,PPC Executive- Associate,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-784,SF Tech Architect - Associate,"scala, ai, ui, excel",5, Mid-Senior level,Uplers
+S-785,Senior - Data Engineer,"python, sql, ai, ui, tableau, excel, power bi",5, Mid-Senior level,Uplers
+S-786,Google Analytics Associate - WFH,"java, css, javascript, ai, ui, power bi, html, ml",5, Mid-Senior level,Uplers
+S-787,Mobile Developer- Android,"java, ai, ui",5, Mid-Senior level,Uplers
+S-788,Programmatic Executive,"ai, ui, excel",5, Mid-Senior level,Uplers
+S-789,Mobile Developer- Android,"java, ai, ui",5, Mid-Senior level,Uplers
+S-790,Data Engineer,"python, scala, flask, sql, ai, ui",5, Mid-Senior level,Uplers
+S-791,Remote Android Developer,"java, ai, ui",5, Mid-Senior level,Uplers
+S-792,Python Software Developer,"python, c++, java, hadoop, scala, spark, sql, ai, ui",5, Mid-Senior level,Uplers
+S-793,Linux Lead,"linux, ui",5, Mid-Senior level,Infosys
+S-794,Nodejs Lead,"ai, ui, nodejs",5, Mid-Senior level,Infosys
+S-795,Technology Analyst - .Net,"ai, ui",1, Associate,Infosys
+S-796,Technology Analyst - .Net,"ai, ui",1, Associate,Infosys
+S-797,Dotnet Developer,"ai, ui",5, Mid-Senior level,Infosys
+S-798,Technology Analyst - NodeJs (3-5 years) - Jaipur,"ai, ui",5, Mid-Senior level,Infosys
+S-799,Java Developer (3-5 yrs) Bhubaneshwar,"java, ai, ui, excel",1, Associate,Infosys
+S-800,Senior Dotnet Developer,"ai, ui",5, Mid-Senior level,Infosys
+S-801,Technology Analyst - Devops - (3-5 years) - BHUBANESWAR,"ai, ui",5, Mid-Senior level,Infosys
+S-802,Java Developer (5-8 yrs) Bhubaneshwar,"java, ai, ui, excel",1, Associate,Infosys
+S-803,Nodejs Lead,"ai, ui, nodejs",5, Mid-Senior level,Infosys
+S-804,Technology Analyst - NodeJs (3-5 years) - Pune,"ai, ui",5, Mid-Senior level,Infosys
+S-805,Dotnet Developer,"ai, ui",1, Associate,Infosys
+S-806,Java Developer (5-8 yrs) Indore,"java, ai, ui, excel",5, Mid-Senior level,Infosys
+S-807,Technology Analyst - NodeJs (3-5 years) - Bhubaneshwar,"ai, ui, nodejs",0, Entry level,Infosys
+S-808,Hiring for OTC- JAIPUR,"ai, excel",0, Entry level,Genpact
+S-809,C++ Developer,"python, c++, java, javascript, ai, ui",5, Mid-Senior level,Genpact
+S-810,Hiring for RTR- Jaipur,"ai, ui, excel",1, Associate,Genpact
